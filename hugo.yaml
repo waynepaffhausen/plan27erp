@@ -119,8 +119,8 @@ params:
       tokenize: forward
 
   editURL:
-    enable: true
-    base: "https://github.com/beginnerprivacy/beginnerprivacy.com/edit/main/content"
+    enable: false
+    #base: "https://github.com/beginnerprivacy/beginnerprivacy.com/edit/main/content"
 
   articles:
     list:
