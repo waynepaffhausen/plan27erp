@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <div class='hx-mx-auto hx-flex {{ partial "utils/page-width" . }}'>
+    {{ partial "sidebar.html" (dict "context" . "disableSidebar" true "displayPlaceholder" false) }}
+    <div class="container">
+      <div>
+        <img class="bodyguard" src="/images/bodyguard.webp" alt="Bodyguard">
+        <h2 class="hx-text-2rem hx-text-center">404<span class="separator"></span>{{ T "404Message" }}</h2>
+      </div>
+    </div>
+  </div>
+{{ end }}

@@ -1,0 +1,63 @@
+backToTop: "Scroll to top"
+changeLanguage: "Change language"
+changeTheme: "Change theme"
+copyCode: "Copy code"
+dark: "Dark"
+editThisPage: "Edit this page on GitHub →"
+lastUpdated: "Last updated on"
+light: "Light"
+noResultsFound: "No results found."
+onThisPage: "On this page"
+readMore: "Read more →"
+404Message: "Whoa there, buddy! This page is VIP access only!"
+homepageTagline: "Take Back Control of Your Privacy"
+
+# Navbar
+explore: "Explore"
+news: "News"
+newsDescription: "Stay up to date with the latest privacy news"
+shop: "Shop"
+shopDescription: "Shop our awesome merchandise"
+articles: "Articles"
+about: "About"
+roadmap: "Roadmap"
+checklists: "Checklists"
+checklistsDescription: "Get ready for anything with our checklists"
+searchPlaceholder: "Search..."
+
+# Language Dropdown
+languageOther: "Other"
+languageOtherLink: "/about#languages"
+
+# Footer
+home: "Home"
+contact: "Contact"
+contributors: "Contributors"
+disclaimer: "Disclaimer"
+copyright: "Beginner Privacy & contributors."
+privacyNotice: "Privacy notice."
+
+# Checklists
+checklistsPageDescription: "Get ready for anything—our checklists have you covered!"
+readChecklist: "Read checklist"
+backToChecklists: "Back to Checklists"
+
+# Roadmap
+bookmarkRoadmapReminder: "Bookmark this page and visit weekly to improve your privacy score"
+resetRoadmapProgressPrompt: "Are you sure you want to delete all roadmap progress? This cannot be undone."
+yourProgress: "Your Progress"
+privacyStarter: "🌱 Privacy Starter"
+privacyAware: "👀 Privacy Aware"
+privacyEnthusiast: "⚡ Privacy Enthusiast"
+privacyDefender: "🛡️ Privacy Defender"
+PrivacyExpert: "👨‍💻 Privacy Expert"
+yourProgressTasksSmallText1: "out of"
+yourProgressTasksSmallText2: "tasks completed"
+yourProgressCircleSmallText: "complete"
+taskCompleted: "Completed"
+startTask: "Start Task"
+reviewTask: "Review Task"
+
+## Roadmap tasks
+backToRoadmap: "Back to Roadmap"
+markAsComplete: "Mark as Complete"
