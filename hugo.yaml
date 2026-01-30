@@ -55,17 +55,17 @@ enableInlineShortcodes: true
 
 menu:
   main:
-    - identifier: articles
-      name: Articles
-      pageRef: /articles
+    - identifier: charter
+      name: Charter
+      pageRef: /charter
       weight: 1
-    - identifier: roadmap
-      name: Roadmap
-      pageRef: /roadmap
+    - identifier: faqs
+      name: FAQs
+      pageRef: /faqs
       weight: 2
-    - identifier: about
-      name: About
-      pageRef: /about
+    - identifier: gettingInvolved
+      name: Getting Involved
+      pageRef: /gettinginvolved
       weight: 3
 
   footer:
@@ -135,16 +135,16 @@ params:
       # hover | always
       display: hover
 
-  comments:
-    enable: false
-    type: giscus
+  # comments:
+  #   enable: false
+  #   type: giscus
 
-    # https://giscus.app/
-    giscus:
-      repo: imfing/hextra
-      repoId: R_kgDOJ9fJag
-      category: General
-      categoryId: DIC_kwDOJ9fJas4CY7gW
+  #   # https://giscus.app/
+  #   giscus:
+  #     repo: imfing/hextra
+  #     repoId: R_kgDOJ9fJag
+  #     category: General
+  #     categoryId: DIC_kwDOJ9fJas4CY7gW
       # mapping: pathname
       # strict: 0
       # reactionsEnabled: 1
