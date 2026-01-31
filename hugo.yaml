@@ -21,13 +21,13 @@ outputs:
   page: [HTML]
   section: [HTML, RSS]
 
-defaultContentLanguage: en
-languages:
-  en:
-    languageName: English
-    weight: 1
-    title: PLAN-27ERP
-    contentDir: content
+# defaultContentLanguage: en
+# languages:
+#   en:
+#     languageName: English
+#     weight: 1
+#     title: PLAN-27ERP Home
+#     contentDir: content
 
 module:
   hugoVersion:
@@ -67,6 +67,11 @@ menu:
       name: Getting Involved
       pageRef: /gettinginvolved
       weight: 3
+    - name: Theme Toggle        # <-- add this
+      weight: 6                 # set weight to position it where you want
+      params:
+        type: theme-toggle
+        label: true   
 
   footer:
     - identifier: footertext
@@ -85,22 +90,22 @@ params:
       width: 25
       height: 25
       # link: /
-    width: wide
+    width: full
 
   page:
     # full (100%), wide (90rem), normal (1280px)
-    width: normal
+    width: full
 
   theme:
     # light | dark | system
-    default: light
+    default: system
     displayToggle: true
 
   footer:
-    enable: true
-    displayCopyright: true
-    displayPoweredBy: true
-    width: normal
+    enable: false
+    displayCopyright: false
+    displayPoweredBy: false
+    width: full
 
   displayUpdatedDate: true
   dateFormat: "January 2, 2006"
@@ -108,7 +113,7 @@ params:
   # Search
   # flexsearch is enabled by default
   search:
-    enable: true
+    enable: false
     type: flexsearch
 
     flexsearch:
@@ -134,21 +139,3 @@ params:
       enable: true
       # hover | always
       display: hover
-
-  # comments:
-  #   enable: false
-  #   type: giscus
-
-  #   # https://giscus.app/
-  #   giscus:
-  #     repo: imfing/hextra
-  #     repoId: R_kgDOJ9fJag
-  #     category: General
-  #     categoryId: DIC_kwDOJ9fJas4CY7gW
-      # mapping: pathname
-      # strict: 0
-      # reactionsEnabled: 1
-      # emitMetadata: 0
-      # inputPosition: top
-      # lang: en
-      # theme: noborder_dark
