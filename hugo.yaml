@@ -99,10 +99,10 @@ params:
   theme:
     # light | dark | system
     default: system
-    displayToggle: true
+    displayToggle: false
 
   footer:
-    enable: false
+    enable: true
     displayCopyright: false
     displayPoweredBy: false
     width: full
