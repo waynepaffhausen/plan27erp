@@ -1,7 +1,7 @@
 +++
 title = 'Frequently Asked Questions'
 date = 2026-01-29T09:38:51-05:00
-draft = true
+# draft = true
 +++
 
 
@@ -27,6 +27,8 @@ The 2023 Jacobs Engineering [site assessment](https://i.postimg.cc/x860w2TH/2026
 - "Site 2" - [9140 Fouts Road](https://www.google.com/maps/place/9140+Fouts+Rd,+Roswell,+GA+30076/@34.0036361,-84.2929164,18.92z/data=!4m6!3m5!1s0x88f50ac0e523c88f:0x4dd3f73247968776!8m2!3d34.0024194!4d-84.293185!16s%2Fg%2F11c2dd681c), the site of Iglesia Pentecostés Church
 - "Site 3" - East Roswell Park along Fouts Road, the current planned location
 
+
+{{% comment %}}
 ## Why is the new site substantially larger than the previous site?
 
 ## Have residents successfully fought major projects like this before?
@@ -34,3 +36,4 @@ The 2023 Jacobs Engineering [site assessment](https://i.postimg.cc/x860w2TH/2026
 ## What stage is the project in?  Is it too late to stop it?
 
 ## What can I do to help?
+{{% /comment %}}
