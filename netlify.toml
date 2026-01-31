@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify --baseURL "${URL}"
+command = "hugo --gc --minify --baseURL ${URL}"
 
 # Always trigger a rebuild, even if the files haven't changed.
 # See https://docs.netlify.com/configure-builds/file-based-configuration/#ignore-builds
