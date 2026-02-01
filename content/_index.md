@@ -21,11 +21,21 @@ layout: hextra-home
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/hero-section heading="h3" >}}
-What's happening with Fire Station 27?
-{{< /hextra/hero-section >}}
 
-The City of Roswell is planning to relocate Fire Station 27 from its previous location (link) to East Roswell Park.  The plan involves carving out 3-5 acres of heavily-used park land to construct the new site.  Park users, disc golf players, and local residents are opposed to this plan, and we need your help in demanding the city to find an alternative location.
+<!-- The City of Roswell is planning to relocate Fire Station 27 from its previous location (link) to East Roswell Park.  The plan involves carving out 3-5 acres of heavily-used park land to construct the new site.  Park users, disc golf players, and local residents are opposed to this plan, and we need your help in demanding the city to find an alternative location. -->
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: center;">
+  <div>
+  {{< hextra/hero-section heading="h3" >}}
+  What's happening with Fire Station 27?
+  {{< /hextra/hero-section >}}
+
+  The City of Roswell is planning to relocate Fire Station 27 from its previous location (link) to East Roswell Park.  The plan involves carving out 3-5 acres of heavily-used park land to construct the new site.  Park users, disc golf players, and local residents are opposed to this plan, and we need your help in demanding the city find an alternative location.
+  </div>
+  <div>
+    <img src="/images/fire-station-sign.jpg" style="width: 50%;">
+  </div>
+</div>
 
 <div class="hx:mt-6"></div>
 
