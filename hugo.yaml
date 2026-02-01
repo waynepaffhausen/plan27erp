@@ -75,6 +75,11 @@ params:
   sidebar:
     disable: true
 
+  banner:
+    key: 'announcement'
+    message: |
+      A follow-up meeting is scheduled Feb. 13 from 8 a.m. to 2 p.m. at Rivers Landing, 245 Azalea Drive
+
   images:
     - images/og_image.png
   navbar:
