@@ -59,6 +59,10 @@ menu:
       name: Getting Involved
       pageRef: /getting-involved
       weight: 3
+    - identifier: linksResources
+      name: Links/Resources
+      pageRef: /links-resources
+      weight: 4
     - name: Theme Toggle        # <-- add this
       weight: 6                 # set weight to position it where you want
       params:
