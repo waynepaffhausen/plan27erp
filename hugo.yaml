@@ -9,10 +9,6 @@ enableGitInfo: true
 # enableEmoji: false
 hasCJKLanguage: true
 
-# services:
-#   googleAnalytics:
-#     ID: G-MEASUREMENT_ID
-
 disableKinds:
   - taxonomy
 
@@ -33,10 +29,6 @@ module:
   hugoVersion:
     extended: true
     min: "0.112.0"
-
-  # workspace: hugo.work
-  # imports:
-  #   - path: github.com/imfing/hextra
 
 markup:
   highlight:
@@ -78,7 +70,11 @@ menu:
       name: A beginner-friendly roadmap for enhancing your online privacy.
 
 params:
-  description: Take control of your online privacy. Beginner Privacy helps you protect your data with simple guides and a clear, actionable roadmap.
+  #description: Take control of your online privacy. Beginner Privacy helps you protect your data with simple guides and a clear, actionable roadmap.
+  
+  sidebar:
+    disable: true
+
   images:
     - images/og_image.png
   navbar:
