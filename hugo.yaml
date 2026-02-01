@@ -55,10 +55,14 @@ menu:
       name: FAQs
       pageRef: /faqs
       weight: 2
+    - identifier: resources
+      name: Resources
+      pageRef: /resources
+      weight: 3
     - identifier: gettingInvolved
       name: Getting Involved
       pageRef: /getting-involved
-      weight: 3
+      weight: 4
     - name: Theme Toggle        # <-- add this
       weight: 6                 # set weight to position it where you want
       params:
