@@ -1,8 +1,7 @@
-+++
-title = 'Frequently Asked Questions'
-date = 2026-01-29T09:38:51-05:00
-# draft = true
-+++
+---
+title: 'Frequently Asked Questions'
+date: 2026-01-29T09:38:51-05:00
+---
 
 
 ## Why does the fire station need to be relocated?
@@ -28,12 +27,11 @@ The 2023 Jacobs Engineering [site assessment](https://i.postimg.cc/x860w2TH/2026
 - "Site 3" - East Roswell Park along Fouts Road, the current planned location
 
 
-{{% comment %}}
-## Why is the new site substantially larger than the previous site?
+
+<!-- ## Why is the new site substantially larger than the previous site?
 
 ## Have residents successfully fought major projects like this before?
 
 ## What stage is the project in?  Is it too late to stop it?
 
-## What can I do to help?
-{{% /comment %}}
+## What can I do to help? -->
