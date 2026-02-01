@@ -36,4 +36,8 @@ The 2023 Jacobs Engineering [site assessment](https://i.postimg.cc/x860w2TH/2026
 ## What stage is the project in?  Is it too late to stop it?
 
 ## What can I do to help?
+
+notes reserved for future use
+- Count of trees being cut down timestamp - https://youtu.be/6mamySxSVWU?t=3399
+- Are there any other fire stations with bays directly pointed at homes' front doors - https://youtu.be/6mamySxSVWU?t=4478
 {{% /comment %}}
