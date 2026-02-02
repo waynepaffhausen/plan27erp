@@ -81,9 +81,8 @@ Also in 2013, the city of Roswell in conjunction with the other municipalities i
 
 ## What can I do to help?
 
-<!-- Please see the [Getting Involved]({{< ref "getting-involved/_index.md" >}}) page for more information. -->
 {{< cards >}}
-  {{< card link="/getting-involved" title="Visit Getting Involved" icon="link" >}}
+  {{< card link="getting-involved" title="Getting Involved" icon="document-text" subtitle="Learn how to help by getting involved!" >}}
 {{< /cards >}}
 
 

@@ -36,11 +36,11 @@ layout: hextra-home
 
 <div style="display: flex; flex-wrap: wrap; width: 100%; gap: 10px;">
   <a href="/images/full-size/fire-station-sign.jpg" target="_blank">
-    <img src="/images/fire-station-sign.jpg" style="max-height: 500px" />
+    <img src="/images/fire-station-sign.jpg" style="max-height: clamp(200px, 35vw, 500px)" />
   </a>
 
   <a href="/images/full-size/fouts-road-cottages2.jpg" target="_blank">
-    <img src="/images/fouts-road-cottages2.png" style="max-height: 500px;">
+    <img src="/images/fouts-road-cottages2.png" style="max-height: clamp(200px, 35vw, 500px)">
   </a>
 </div>
 
@@ -62,11 +62,11 @@ Simply put — this plan is a cost-cutting measure that takes away park land in 
 
 <div style="display: flex; flex-wrap: wrap; width: 100%; gap: 10px;">
   <a href="/images/full-size/disc-golf-overlay.svg" target="_blank">
-    <img src="/images/disc-golf-overlay.png" style="max-height: 500px;">
+    <img src="/images/disc-golf-overlay.png" style="max-height: clamp(200px, 35vw, 500px)">
   </a>
 
   <a href="/images/full-size/Impacts-on-Disc-Golf.jpg" target="_blank">
-    <img src="/images/Impacts-on-Disc-Golf.png" style="max-height: 500px;">
+    <img src="/images/Impacts-on-Disc-Golf.png" style="max-height: clamp(200px, 35vw, 500px)">
   </a>
 </div>
 
@@ -77,5 +77,5 @@ What can I do to help?
 {{< /hextra/hero-section >}}
 
 {{< cards >}}
-  {{< card link="/getting-involved" title="Visit Getting Involved" icon="link" >}}
+  {{< card link="getting-involved" title="Getting Involved" icon="document-text" subtitle="Learn how to help by getting involved!" >}}
 {{< /cards >}}
