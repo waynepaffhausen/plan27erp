@@ -1,6 +1,6 @@
 ---
 title: 'How Can I Help?'
-date: 2026-01-29T09:38:51-05:00
+#date: 2026-01-29T09:38:51-05:00
 ---
 
 Thank you for your interest in helping to preserve the integrity of East Roswell Park and its surrounding neighborhoods!  We rely on volunteers like you to help us gather information, voice our concerns to the city, and spread the word to neighbors and park users.

@@ -1,6 +1,6 @@
 ---
 title: 'Frequently Asked Questions'
-date: 2026-01-29T09:38:51-05:00
+#date: 2026-01-29T09:38:51-05:00
 ---
 
 Here is a list of frequently asked questions about the Fire Station 27 project.  The answers below are intended to be as factual as possible using information that has been sourced from city council meetings and other documents shared with the public.

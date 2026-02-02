@@ -1,6 +1,6 @@
 ---
 title: 'Links and Resources'
-date: 2026-01-29T09:38:51-05:00
+#date: 2026-01-29T09:38:51-05:00
 ---
 
 - [2022 Roswell Fire Department Gap Analysis report](https://www.roswellgov.com/wp-content/uploads/Roswell-Fire-Department-Strategic-Plan-20222027.pdf), by Center for Public Safety Management, LLC
