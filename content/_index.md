@@ -32,9 +32,16 @@ layout: hextra-home
 
   The City of Roswell is planning to relocate Fire Station 27 from its previous location (link) to East Roswell Park.  The plan involves carving out 3-5 acres of heavily-used park land to construct the new site.  Park users, disc golf players, and local residents are opposed to this plan, and we need your help in demanding the city find an alternative location.
   </div>
-  <div style="flex: 1 1; flex-basis: 300px;">
-    <img src="/images/fire-station-sign.jpg" style="max-height: 300px" />
-  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; width: 100%; gap: 10px;">
+  <a href="/images/full-size/fire-station-sign.jpg" target="_blank">
+    <img src="/images/fire-station-sign.jpg" style="max-height: clamp(200px, 35vw, 500px)" />
+  </a>
+
+  <a href="/images/full-size/fouts-road-cottages2.jpg" target="_blank">
+    <img src="/images/fouts-road-cottages2.png" style="max-height: clamp(200px, 35vw, 500px)">
+  </a>
 </div>
 
 <div class="hx:mt-6"></div>
@@ -54,8 +61,13 @@ Simply put — this plan is a cost-cutting measure that takes away park land in 
 - Potentially blocking the only entrance/exit for residents along Fouts Rd.
 
 <div style="display: flex; flex-wrap: wrap; width: 100%; gap: 10px;">
-  <img src="/images/fouts-road-cottages2.png" style="max-height: 300px;">
-  <img src="/images/disc-golf-overlay.png" style="max-height: 300px;">
+  <a href="/images/full-size/disc-golf-overlay.svg" target="_blank">
+    <img src="/images/disc-golf-overlay.png" style="max-height: clamp(200px, 35vw, 500px)">
+  </a>
+
+  <a href="/images/full-size/Impacts-on-Disc-Golf.jpg" target="_blank">
+    <img src="/images/Impacts-on-Disc-Golf.png" style="max-height: clamp(200px, 35vw, 500px)">
+  </a>
 </div>
 
 <div class="hx:mt-6"></div>
@@ -64,4 +76,6 @@ Simply put — this plan is a cost-cutting measure that takes away park land in 
 What can I do to help?
 {{< /hextra/hero-section >}}
 
-Please see the [**Getting Involved**]({{< ref "getting-involved/_index.md" >}}) page for more information.
+{{< cards >}}
+  {{< card link="getting-involved" title="Getting Involved" icon="document-text" subtitle="Learn how to help by getting involved!" >}}
+{{< /cards >}}
