@@ -11,6 +11,7 @@
 {{- $tagColor := .tagColor | default .tagType | default "" -}}{{- /* Compatibility with previous parameter. */ -}}
 {{- $tagBorder := not (eq .tagBorder false) | default true }}
 {{- $tagIcon := .tagIcon -}}
+{{- $copyText := .copyText -}}
 
 {{ $linkClass := "hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900" }}
 {{- with $image -}}
@@ -20,14 +21,21 @@
 {{- $external := strings.HasPrefix $link "http" -}}
 {{- $href := cond (strings.HasPrefix $link "/") ($link | relURL) $link -}}
 
+{{/* Shared inner content: image, title, subtitle, tag */}}
+{{- define "card-inner" -}}
+  {{- $image := .image -}}
+  {{- $alt := .alt -}}
+  {{- $width := .width -}}
+  {{- $height := .height -}}
+  {{- $imageStyle := .imageStyle -}}
+  {{- $icon := .icon -}}
+  {{- $title := .title -}}
+  {{- $subtitle := .subtitle -}}
+  {{- $tag := .tag -}}
+  {{- $tagColor := .tagColor -}}
+  {{- $tagBorder := .tagBorder -}}
+  {{- $tagIcon := .tagIcon -}}
 
-<a
-  class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 {{ $linkClass }}"
-  {{- if $link -}}
-    href="{{ $href }}"
-    {{ with $external }}target="_blank" rel="noreferrer"{{ end -}}
-  {{- end -}}
->
   {{- with $image -}}
     <img
       alt="{{ $alt }}"
@@ -66,5 +74,77 @@
       )
     -}}
   {{- end -}}
+{{- end -}}
+
+{{/* ---------- COPY CARD: renders a <div> with onclick ---------- */}}
+{{- if $copyText -}}
+<div
+  class="hextra-card hx:relative hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:cursor-pointer {{ $linkClass }}"
+  data-copy-text="{{ $copyText }}"
+  onclick="hextraCopyCard(this)"
+>
+  {{- template "card-inner" (dict
+    "image"      $image
+    "alt"        $alt
+    "width"      $width
+    "height"     $height
+    "imageStyle" $imageStyle
+    "icon"       $icon
+    "title"      $title
+    "subtitle"   $subtitle
+    "tag"        $tag
+    "tagColor"   $tagColor
+    "tagBorder"  $tagBorder
+    "tagIcon"    $tagIcon
+  ) -}}
+
+  <!-- Feedback overlay shown briefly after copying -->
+  <span class="hextra-card-copy-feedback" style="display:none; position:absolute; inset:0; align-items:center; justify-content:center; background:rgba(30,30,30,0.82); color:#fff; font-size:0.85rem; font-weight:600; border-radius:0.5rem; pointer-events:none; z-index:10; letter-spacing:0.02em;">
+    ✓ Copied!
+  </span>
+</div>
+
+<script>
+(function () {
+  if (window.__hextraCopyCard) return; // only define once
+  window.__hextraCopyCard = true;
+
+  window.hextraCopyCard = function (el) {
+    var text = el.dataset.copyText;
+    navigator.clipboard.writeText(text).then(function () {
+      var feedback = el.querySelector('.hextra-card-copy-feedback');
+      feedback.style.display = 'flex';
+      setTimeout(function () {
+        feedback.style.display = 'none';
+      }, 1500);
+    });
+  };
+})();
+</script>
+
+{{/* ---------- LINK CARD: original <a> tag, completely untouched ---------- */}}
+{{- else -}}
+<a
+  class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 {{ $linkClass }}"
+  {{- if $link -}}
+    href="{{ $href }}"
+    {{ with $external }}target="_blank" rel="noreferrer"{{ end -}}
+  {{- end -}}
+>
+  {{- template "card-inner" (dict
+    "image"      $image
+    "alt"        $alt
+    "width"      $width
+    "height"     $height
+    "imageStyle" $imageStyle
+    "icon"       $icon
+    "title"      $title
+    "subtitle"   $subtitle
+    "tag"        $tag
+    "tagColor"   $tagColor
+    "tagBorder"  $tagBorder
+    "tagIcon"    $tagIcon
+  ) -}}
 </a>
+{{- end -}}
 {{- /* Strip trailing newline. */ -}}
