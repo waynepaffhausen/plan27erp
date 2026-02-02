@@ -5,11 +5,13 @@ title: 'Frequently Asked Questions'
 
 Here is a list of frequently asked questions about the Fire Station 27 project.  The answers below are intended to be as factual as possible using information that has been sourced from city council meetings and other documents shared with the public.
 
-## What stage is the project in?  Is it too late to stop it?
+<!-- ## What stage is the project in?  Is it too late to stop it? -->
 
+{{% details title="What stage is the project in?  Is it too late to stop it?" closed="true" %}}
 As of Jan 2026, the project is currently in the design phase, as shown on the [Roswell Bond Projects Dashboard](https://experience.arcgis.com/experience/d0ff1ba5adfb4a589415ca5c7bd87529/page/Project-Details?views=CIP-%26-Bond-Projects%2CCIP-Bond-Project-Details#data_s=id%3AdataSource_7-19977e072f0-layer-1%3A23%2Cid%3AdataSource_5-19995ed3cab-layer-7%3A43%2Cid%3AdataSource_5-19ac0c5e9da-layer-7%3A48).  In Dec 2024, a task order was awarded to Hussey Gay Bell for designing Fire Station 27 at the East Roswell Park site.  However, the design is still pending final approval from the Roswell Design Review Board.  Until the design is approved, no construction contracts can be awarded.
 
 For this reason, it is not too late for the city to select an alternative site.
+{{% /details %}}
 
 ## What are the impacts of this project on the park?
 
