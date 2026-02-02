@@ -1,0 +1,22 @@
+/* 
+ * Fix: hextra-home layout does not wrap {{ .Content }} in a <div class="content">,
+ * so Hextra's built-in list styles (which target .content ul / .content ol) never apply.
+ * This targets the hextra-home content container directly.
+ */
+[class*="items-start"] ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+[class*="items-start"] ol {
+  list-style: decimal;
+  padding-left: 1.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+[class*="items-start"] li {
+  margin-bottom: 0.25rem;
+}

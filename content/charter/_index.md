@@ -5,6 +5,8 @@ date: 2026-01-29T09:38:51-05:00
 width: full
 ---
 
+**P**rotecting **L**and **a**nd **N**eighborhoods from Roswell fire station **#27** being relocated inside **E**ast **R**oswell **P**ark
+
 ## Our Mission
 PLAN-27ERP exists to unite residents in opposition to the proposed relocation of Fire Station #27 inside East Roswell Park.  We believe that public park land serves as a vital function in our community and should remain dedicated to recreational use, green space preservation and enjoyment for all residents and visitors.  The conversion of park land for municipal facilities sets a concerning precedent and diminishes the quality of life in our local neighborhoods.
 
