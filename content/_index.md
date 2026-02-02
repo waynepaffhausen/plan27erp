@@ -3,7 +3,7 @@
 layout: hextra-home
 ---
 <div style="position: relative; width: 100%; margin: 0 auto;">
-  <img src="/images/proposed_site.jpg" alt="Description" style="width: 100%; display: block; border-radius: 8px;">
+  <img src="/images/proposed_site.jpg" alt="Description" style="width: 100%; max-height: 350px; display: block; border-radius: 8px;">
   <div style="
     position: absolute;
     bottom: 0;
@@ -14,8 +14,8 @@ layout: hextra-home
     padding: 40px 20px 20px;
     border-radius: 0 0 2px 2px;
   ">
-    <h1 style="margin: 0 0 8px; font-size: 48px; font-weight: bold; color: white">Protect East Roswell Park!</h1>
-    <p style="margin: 0; opacity: 0.85;">Help Prevent fire station 27 from being built on park land</p>
+    <h1 style="margin: 0 0 8px; font-size: clamp(2vw, 4vw, 3rem); font-weight: bold; color: white">Protect East Roswell Park!</h1>
+    <p style="margin: 0; font-size: clamp(0.8rem, 1.5vw, 1.5rem); opacity: 0.85;">Prevent Fire Station 27 from being built on park land</p>
   </div>
 </div>
 
@@ -24,16 +24,16 @@ layout: hextra-home
 
 <!-- The City of Roswell is planning to relocate Fire Station 27 from its previous location (link) to East Roswell Park.  The plan involves carving out 3-5 acres of heavily-used park land to construct the new site.  Park users, disc golf players, and local residents are opposed to this plan, and we need your help in demanding the city to find an alternative location. -->
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: center;">
-  <div>
+<div style="display: flex; flex-wrap: wrap; width: 100%; gap: 10px;">
+  <div style="flex: 1 1; flex-basis: 350px;">
   {{< hextra/hero-section heading="h3" >}}
   What's happening with Fire Station 27?
   {{< /hextra/hero-section >}}
 
   The City of Roswell is planning to relocate Fire Station 27 from its previous location (link) to East Roswell Park.  The plan involves carving out 3-5 acres of heavily-used park land to construct the new site.  Park users, disc golf players, and local residents are opposed to this plan, and we need your help in demanding the city find an alternative location.
   </div>
-  <div>
-    <img src="/images/fire-station-sign.jpg" style="max-width: 500px;">
+  <div style="flex: 1 1; flex-basis: 300px;">
+    <img src="/images/fire-station-sign.jpg" style="max-height: 300px" />
   </div>
 </div>
 
@@ -53,13 +53,9 @@ Simply put — this plan is a cost-cutting measure that takes away park land in 
 - Adding congestion on an already narrow/congested side street
 - Potentially blocking the only entrance/exit for residents along Fouts Rd.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;">
-  <div>
-    <img src="/images/fouts-road-cottages2.png" style="max-width: 500px;">
-  </div>
-  <div>
-    <img src="/images/disc-golf-overlay.png" style="max-width: 500px;">
-  </div>
+<div style="display: flex; flex-wrap: wrap; width: 100%; gap: 10px;">
+  <img src="/images/fouts-road-cottages2.png" style="max-height: 300px;">
+  <img src="/images/disc-golf-overlay.png" style="max-height: 300px;">
 </div>
 
 <div class="hx:mt-6"></div>
