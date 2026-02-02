@@ -9,7 +9,7 @@ Here is a list of frequently asked questions about the Fire Station 27 project. 
 
 As of Jan 2026, the project is currently in the design phase, as shown on the [Roswell Bond Projects Dashboard](https://experience.arcgis.com/experience/d0ff1ba5adfb4a589415ca5c7bd87529/page/Project-Details?views=CIP-%26-Bond-Projects%2CCIP-Bond-Project-Details#data_s=id%3AdataSource_7-19977e072f0-layer-1%3A23%2Cid%3AdataSource_5-19995ed3cab-layer-7%3A43%2Cid%3AdataSource_5-19ac0c5e9da-layer-7%3A48).  In Dec 2024, a task order was awarded to Hussey Gay Bell for designing Fire Station 27 at the East Roswell Park site.  However, the design is still pending final approval from the Roswell Design Review Board.  Until the design is approved, no construction contracts can be awarded.
 
-For this reason, we believe it is not too late for the city to choose an alternative site.
+For this reason, it is not too late for the city to select an alternative site.
 
 ## What are the impacts of this project on the park?
 
@@ -28,9 +28,17 @@ In addition to the two-story fire station building, the latest design also inclu
 ## Why does the fire station need to be relocated?
 In 2022, the City of Roswell hired a consulting firm to conduct a [gap analysis](https://www.roswellgov.com/wp-content/uploads/Roswell-Fire-Department-Strategic-Plan-20222027.pdf) of the Roswell Fire Department (RFD) and found that the RFD's travel times exceed modern standards.  The NFPA 1710 standard is a travel time under 4 minutes, 90% of the time.  However, [RFD's analysis](https://youtu.be/6mamySxSVWU?t=1013) of Fire Station 27 showed travel times of 6 minutes and 56 seconds, 90% of the time.
 
-In 2024, RFD [conducted a Fire Response analysis](https://youtu.be/1dhoO87rVdg?t=13692) simulating travel time improvements after both relocating Fire Station 27 AND implementing a new [traffic preemption system](https://en.wikipedia.org/wiki/Traffic_signal_preemption) that allows operators to override traffic lights to make way for emergency vehicles.  The simulations estimate that together, these changes could reduce travel times to 4 minutes and 48 seconds, 90% of the time.
+In 2024, RFD [conducted a Fire Response analysis](https://youtu.be/1dhoO87rVdg?t=13692) simulating travel time improvements after both relocating Fire Station 27 AND implementing a new [traffic preemption system](https://en.wikipedia.org/wiki/Traffic_signal_preemption) that allows operators to override traffic lights to make way for emergency vehicles.  The simulations estimate that together, these changes could reduce travel times to 4 minutes and 48 seconds, 90% of the time.  No simulations using only the traffic preemption system, or only relocating the fire station were ever published.
 
 In general, the [current location](https://maps.app.goo.gl/J9HgRkn8hKKtE68a6) of Fire Station 27 is very near both the city and county lines.  Relocating the fire station further west should reduce the travel time from the station to many Roswell addresses.
+
+## How is this project being funded?
+
+In [November 2022](https://fultoncountyga.gov/news/2022/11/08/november-8-2022-general-election-results), Roswell voters approved Bond Program funds on the ballot including:
+- $107.6 million for Recreation, Parks, Bicycle & Pedestrian Paths, and Sidewalks [(74% in favor)](https://results.enr.clarityelections.com/GA/Fulton/115526/web.307039/#/detail/67)
+- $52 million for Public Safety (Police & Fire) Capital Projects [(73% in favor)](https://results.enr.clarityelections.com/GA/Fulton/115526/web.307039/#/detail/68)
+
+This project is primarily funded by the bond dollars from the "Public Safety Capital Projects" bucket listed above.  Notably, the Public Safety ballot question [did not specify the locations](https://www.appenmedia.com/alpharetta_roswell/roswell-officials-lay-out-costs-stress-importance-of-bond-initiatives/article_06ab1608-4b69-11ed-b14c-0b5f82b9ede3.html) where any fire stations would be relocated to.  It raises the question as to whether the voters would find relocating the fire station into East Roswell Park in conflict with the Parks & Recreation ballot question from the same election cycle.
 
 ## How was East Roswell Park selected?
 
