@@ -62,10 +62,10 @@ Simply put — this plan is a cost-cutting measure that takes away park land in 
   </div>
 </div>
 
-
-<!-- <div class="hx:mt-6"></div>
+<div class="hx:mt-6"></div>
 
 {{< hextra/hero-section heading="h3" >}}
 What can I do to help?
-{{< /hextra/hero-section >}} -->
+{{< /hextra/hero-section >}}
 
+Please see the [**Getting Involved**]({{< ref "getting-involved/_index.md" >}}) page for more information.
