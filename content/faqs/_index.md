@@ -65,7 +65,7 @@ The city's original plan in 2013 was [to build the fire station in Big Creek Par
 
 ## Are there other examples in Roswell where a fire station is so close to someone's front door?
 
-No.  The closest example is [Roswell Fire Station #6](https://maps.app.goo.gl/uZFZYJKaccF9xoqi7).  However, in that example the bays point parallel to Cox Road, not across the street towards the house.  Additionally, the house across from Fire Station #6 is set back much further.
+No.  The closest example is [Roswell Fire Station 26](https://maps.app.goo.gl/uZFZYJKaccF9xoqi7).  However, in that example the bays point parallel to Cox Road, not across the street towards the house.  Additionally, the house across from Fire Station 26 is set back much further.
 
 On Fouts Road, the front doors of the townhomes are [less than 20 feet from the edge of the street](https://maps.app.goo.gl/Cwp9yLHHr7P3EMmT9), and less than 50 feet away from the proposed location of the fire engine driveway.  The garage bays will also be pointed directly across Fouts Road, meaning that any lights from the fire station would shine directly into the front door and windows of the residences.
 
