@@ -14,7 +14,8 @@ If you would like to stay informed; please consider joining our Google Group. It
 {{< callout type="important" >}} 
 - Members names and emails are obscured to Owners of the group only!
 - We will not use this list for any other distributions.
-- Only Owners and Managers can send emails.
+- We will not share/distribute this list for any reason.
+- Only Owners and Managers can send emails to the group.
 {{< /callout >}}
 
 ### To join the Google Group
