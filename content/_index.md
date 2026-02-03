@@ -76,6 +76,6 @@ Simply put — this plan is a cost-cutting measure that takes away park land in 
 What can I do to help?
 {{< /hextra/hero-section >}}
 
-{{< cards >}}
+{{< cards cols="2" >}}
   {{< card link="getting-involved" title="Getting Involved" icon="document-text" subtitle="Learn how to help by getting involved!" >}}
 {{< /cards >}}
