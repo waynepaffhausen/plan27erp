@@ -6,7 +6,7 @@ title: 'How Can I Help?'
 Thank you for your interest in helping to preserve the integrity of East Roswell Park and its surrounding neighborhoods!  We rely on volunteers like you to help us gather information, voice our concerns to the city, and spread the word to neighbors and park users.
 
 ## Attend public meetings
-The [next public meeting is scheduled for Feb. 13 from 8 a.m. to 2 p.m.](https://www.appenmedia.com/alpharetta_roswell/roswell-city-officials-lay-out-2026-priorities/article_8e4f487c-4dd6-45e0-acaf-b5a89f37d14e.html) at [Roswell River Landing, 245 Azalea Drive](https://maps.app.goo.gl/H9bzb6X21brgcsGs5).  Even if you are only able to attend a small portion of the meeting, it helps to show the city that there are many residents opposed to building the fire station in East Roswell Park.
+The [next public meeting is scheduled for Friday, February 13, 2026 at 8:30 a.m.](https://www.roswellgov.com/calendar-events/mayor-council-leadership-conference-recap-meeting-02-13-2026/) at [City Council](https://maps.app.goo.gl/mvRhDDuYPQey1G6P7).  Even if you are only able to attend a small portion of the meeting, it helps to show the city that there are many residents opposed to building the fire station in East Roswell Park.
 
 ## Sign the Change.org petition
 If you don't have time to attend public meetings, please consider spending a moment to sign the petition! Every signature helps emphasize to the Mayor and City Council how important East Roswell Park is to our community
@@ -14,7 +14,7 @@ If you don't have time to attend public meetings, please consider spending a mom
   {{< card link="https://c.org/4wcsP9Xgtf" title="Stop the placement of Fire Station #27 in East Roswell Park" icon="external-link" >}}
 {{< /cards >}}
 
-## Join our email group
+## Our email group
 If you would like to stay informed; please consider joining our Google Group. It's best to use an `@gmail.com` email address.  Alternatively you can use a non\-`@gmail.com` by following the [Google instructions posted here.](https://support.google.com/groups/answer/1067205) 
 
 {{< callout type="important" >}} 
@@ -24,24 +24,24 @@ If you would like to stay informed; please consider joining our Google Group. It
 - Only Owners and Managers can send emails to the group.
 {{< /callout >}}
 
-1. To join the Google Group:
-    - Send a blank email to the address plan-27erp+subscribe@googlegroups.com
-2. To request content to be sent to the group:
-    - Send an email to plan-27+managers@googlegroups.com **Full details and text are needed.**
-    - Content that is pertinent to the PLAN-27ERP Charter and approved by the Owners of the group will be forwaded to the distribution list.
-    - Appropriate things to send to us to share are:
-      - Important messages or updates related to East Roswell Park and the Fire Station 27 relocation
-      - Announcements related to East Roswell Park and the Fire Station 27 relocation
+| To join the group                      |  To leave the group                     |  To request forwarding of content     |
+|:---------------------------------------|:----------------------------------------|:--------------------------------------|
+| plan-27erp+subscribe@googlegroups.com  |  plan-27erp+unsubscribe@googlegroups.com  |   plan-27+managers@googlegroups.com   |
 
-## Depart our email group
-1. To depart the Google Group
-    - Send a blank email to the address plan-27+unsubscribe@googlegroups.com
+{{< callout type="info" >}} 
+- To join/depart the group only send a blank email
+- If requesting a forward to the group Please provide details and the **full-text of the content** you would like forwarded to all members. 
+  - Content that is pertinent to the PLAN-27ERP Charter and approved by the Owners of the group will be forwaded to the distribution list.
+  - Appropriate things to send to us to share are:
+    - Important messages or updates related to East Roswell Park and the Fire Station 27 relocation
+    - Announcements related to East Roswell Park and the Fire Station 27 relocation
+{{< /callout >}}
 
 ## Share this website with your friends & neighbors
 {{< cards cols="1" >}}
   {{< card title="PLAN-27ERP" icon="link" subtitle="Protecting Land and Neighborhoods from Roswell Fire Station 27 being relocated inside East Roswell Park" copyText="https://plan-27erp.netlify.app" >}}
 {{< /cards >}}
-*URL will be copied to your clipboard*
+*\*URL will be copied to your clipboard*
 
 ## Share your concerns directly with the City of Roswell
 You can reach out and email the Mayor, City Council, Deputy City Administrators and key City Staff.
