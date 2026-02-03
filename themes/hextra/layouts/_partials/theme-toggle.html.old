@@ -13,7 +13,7 @@
     title="{{ $changeTheme }}"
     data-state="closed"
     data-location="{{ $location }}"
-    class="hextra-theme-toggle hx:cursor-pointer hx:rounded-md hx:text-left hx:font-medium {{ $class }} hx:grow"
+    class="hextra-theme-toggle hx:cursor-pointer hx:rounded-md hx:text-left hx:font-medium {{ $class }}"
     type="button"
     aria-label="{{ $changeTheme }}"
   >

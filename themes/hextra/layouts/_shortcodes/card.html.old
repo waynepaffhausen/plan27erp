@@ -12,11 +12,9 @@
   @param {string} method The method to process the image.
   @param {string} options The options to process the image.
   @param {string} imageStyle The style of the image.
-  @param {string} copyText The text to copy to clipboard when the card is clicked.
-                            When provided, the card acts as a copy button instead of a link.
 
-  @example {{< card link="/" title="Image Card" >}}
-  @example {{< card title="Install" icon="terminal" copyText="npm install hextra" >}}
+  @example {{< card link="/" title="Image Card"
+}}
 */ -}}
 {{- $link := .Get "link" -}}
 {{- $title := .Get "title" -}}
@@ -31,7 +29,6 @@
 {{- $tagColor := .Get "tagColor" | default (.Get "tagType") | default "" -}}{{- /* Compatibility with previous parameter. */ -}}
 {{- $tagBorder := not (eq (.Get "tagBorder") false) | default true }}
 {{- $tagIcon := .Get "tagIcon" | default "" -}}
-{{- $copyText := .Get "copyText" -}}
 
 {{/* Image processing options */}}
 {{- $method := .Get "method" | default "Resize" | humanize -}}
@@ -71,6 +68,5 @@
   "tagType"     $tagColor
   "tagBorder"   $tagBorder
   "tagIcon"     $tagIcon
-  "copyText"    $copyText
   )
 -}}
