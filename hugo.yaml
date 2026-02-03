@@ -69,9 +69,9 @@ menu:
         type: theme-toggle
         label: true   
 
-  footer:
-    - identifier: footertext
-      name: A beginner-friendly roadmap for enhancing your online privacy.
+  # footer:
+  #   - identifier: footertext
+  #     name: A beginner-friendly roadmap for enhancing your online privacy.
 
 params:
   #description: Take control of your online privacy. Beginner Privacy helps you protect your data with simple guides and a clear, actionable roadmap.
@@ -82,7 +82,7 @@ params:
   banner:
     key: 'announcement'
     message: |
-      A follow-up meeting is scheduled Feb. 13 from 8 a.m. to 2 p.m. at Rivers Landing, 245 Azalea Drive
+      Mayor & Council Leadership Conference Recap Meeting:  Friday, February 13, 2026 at 8:30 a.m. Room 220 @ City Hall
 
   images:
     - images/og_image.png
