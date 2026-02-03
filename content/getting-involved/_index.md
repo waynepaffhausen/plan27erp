@@ -58,25 +58,26 @@ Appropriate things to send to us are:
 
 ## Share your concerns directly with the City of Roswell
 You can reach out and email the Mayor, City Council and Deputy City Administrators.  
-*Clicking the card will copy the email address to your clipboard.*
+<!-- *Clicking the card will copy the email address to your clipboard.* -->
 ### Mayor and City Council
-{{< cards cols="2" >}}
-  {{< card title="Mayor & City Council Group" icon="mail" subtitle="**Mayor & City Council Group** <br> RoswellMayorandCouncil\@roswellgov.com" copyText="RoswellMayorandCouncil@roswellgov.com" >}}
-  {{< card title="Mary Robichaux" icon="mail" subtitle="**Mayor** <br> mayorrobichaux\@roswellgov.com" copyText="mayorrobichaux@roswellgov.com" >}}
-  {{< card title="Sarah Beeson" icon="mail" subtitle="**Councilmember** <br> sbeeson\@roswellgov.com" copyText="sbeeson@roswellgov.com" >}}
-  {{< card title="Allen Sells" icon="mail" subtitle="**Councilmember** <br> asells\@roswellgov.com" copyText="asells@roswellgov.com" >}}
-  {{< card title="Christine Hall" icon="mail" subtitle="**Councilmember** <br> chall\@roswellgov.com" copyText="chall@roswellgov.com" >}}
-  {{< card title="Jennifer Phillippi" icon="mail" subtitle="**Councilmember** <br> jphillippi\@roswellgov.com" copyText="jphillippi@roswellgov.com" >}}
-  {{< card title="Eren Brumley" icon="mail" subtitle="**Councilmember** <br> ebrumley\@roswellgov.com" copyText="ebrumley@roswellgov.com" >}}
-  {{< card title="Chris Zack" icon="mail" subtitle="**Councilmember** <br> chriszack\@roswellgov.com" copyText="chriszack@roswellgov.com" >}}
-{{< /cards >}}
-### Deputy Administrators
-{{< cards cols="2" >}}
-  {{< card title="Pabel Troche" icon="mail" subtitle="**Fire Chief** <br> ptroche\@roswellgov.com" copyText="ptroche@roswellgov.com" >}}
-  {{< card title="Sharon Izzo" icon="mail" subtitle="**Senior Vice President of Infrastructure & Deputy City Administrator** <br> sizzo\@roswellgov.com" copyText="sizzo@roswellgov.com" >}}
-  {{< card title="Jeff Leatherman" icon="mail" subtitle="**Senior Vice President of Community Services & Deputy City Administrator** <br> jleatherman\@roswellgov.com" copyText="jleatherman@roswellgov.com" >}}
-  {{< card title="Joe Pennino" icon="mail" subtitle="**Senior Vice President of Planning, Performance, and Innovation & Deputy City Administrator** <br> jpennino\@roswellgov.com" copyText="jpennino@roswellgov.com" >}}
-  {{< card title="Brian Watson" icon="mail" subtitle="**Director of Environmental Public Works** <br> bwatson\@roswellgov.com" copyText="bwatson@roswellgov.com" >}}
-  {{< card title="Steven Malone" icon="mail" subtitle="**Director of Recreation, Parks, Historic & Cultural Affairs** <br> smalone\@roswellgov.com" copyText="smalone@roswellgov.com" >}}
-{{< /cards >}}
+| Name                  |    Title         |  Email                                  |
+|:----------------------|:-----------------|:----------------------------------------|
+| Mayor & City Council  |  Group Email     |   RoswellMayorandCouncil@roswellgov.com |
+| Mary Robichaux        |  Mayor           |   mayorrobichaux@roswellgov.com         |
+| Sarah Beeson          |  Councilmember   |   sbeeson@roswellgov.com                |
+| Allen Sells           |  Councilmember   |   asells@roswellgov.com                 |
+| Christine Hall        |  Councilmember   |   chall@roswellgov.com                  |
+| Jennifer Phillippi    |  Councilmember   |   jphillippi@roswellgov.com             |
+| Eren Brumley          |  Councilmember   |   ebrumley@roswellgov.com               |
+| Chris Zack            |  Councilmember   |   chriszack@roswellgov.com              |
+
+### Deputy City Administrators & Staff
+| Name                  |  Titl-e                                                          |  Email                                  |
+|:----------------------|:-----------------------------------------------------------------|:----------------------------------------|
+| Pabel Troche          |  Senior Vice President & Fire Chief                              |   ptroche@roswellgov.com                |
+| Sharon Izzo           |  Senior Vice President of Infrastructure                         |   sizzo@roswellgov.com                  |
+| Jeff Leatherman       |  Senior Vice President of Community Services                     |   jleatherman@roswellgov.com            |
+| Joe Pennino           |  Senior Vice President of Planning, Performance, and Innovation  |   jpennino@roswellgov.com               |
+| Brian Watson          |  Director of Environmental Public Works                          |   bwatson@roswellgov.com                |
+| Steven Malone         |  Director of Recreation, Parks, Historic & Cultural Affairs      |   smalone@roswellgov.com                |
 
