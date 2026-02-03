@@ -5,20 +5,24 @@ title: 'How Can I Help?'
 
 Thank you for your interest in helping to preserve the integrity of East Roswell Park and its surrounding neighborhoods!  We rely on volunteers like you to help us gather information, voice our concerns to the city, and spread the word to neighbors and park users.
 
-<!-- Commented out the below two until I can get instructions written. -->
 <!-- ## Join our email group -->
-<!-- ## Share this page with your neighbors -->
-<!-- ## Sign the Change.org petition -->
+
+
+
+## Share this website with your friends & neighbors
+{{< cards cols="1" >}}
+  {{< card title="PLAN-27ERP" icon="link" subtitle="**P**rotecting **L**and **a**nd **N**eighborhoods from Roswell Fire Station **27** being relocated inside **E**ast **R**oswell **P**ark" copyText="https://plan-27erp.netlify.app" >}}
+{{< /cards >}}
 
 ## Attend public meetings
 The [next public meeting is scheduled for Feb. 13 from 8 a.m. to 2 p.m.](https://www.appenmedia.com/alpharetta_roswell/roswell-city-officials-lay-out-2026-priorities/article_8e4f487c-4dd6-45e0-acaf-b5a89f37d14e.html) at [Roswell River Landing, 245 Azalea Drive](https://maps.app.goo.gl/H9bzb6X21brgcsGs5).  Even if you are only able to attend a small portion of the meeting, it helps to show the city that there are many residents opposed to building the fire station in East Roswell Park.
 
-## Share your concerns with Roswell Government Officials
+## Share your concerns directly with the City of Roswell
 You can reach out and email the Mayor, City Council and Deputy City Administrators.  
 *Clicking the card will copy the email address to your clipboard.*
 ### Mayor and City Council
 {{< cards cols="2" >}}
-  {{< card title="Mayor & CIty Council Group" icon="mail" subtitle="**Mayor & CIty Council Group** <br> RoswellMayorandCouncil\@roswellgov.com" copyText="RoswellMayorandCouncil@roswellgov.com" >}}
+  {{< card title="Mayor & City Council Group" icon="mail" subtitle="**Mayor & City Council Group** <br> RoswellMayorandCouncil\@roswellgov.com" copyText="RoswellMayorandCouncil@roswellgov.com" >}}
   {{< card title="Mary Robichaux" icon="mail" subtitle="**Mayor** <br> mayorrobichaux\@roswellgov.com" copyText="mayorrobichaux@roswellgov.com" >}}
   {{< card title="Sarah Beeson" icon="mail" subtitle="**Councilmember** <br> sbeeson\@roswellgov.com" copyText="sbeeson@roswellgov.com" >}}
   {{< card title="Allen Sells" icon="mail" subtitle="**Councilmember** <br> asells\@roswellgov.com" copyText="asells@roswellgov.com" >}}
@@ -35,4 +39,9 @@ You can reach out and email the Mayor, City Council and Deputy City Administrato
   {{< card title="Joe Pennino" icon="mail" subtitle="**Senior Vice President of Planning, Performance, and Innovation & Deputy City Administrator** <br> jpennino\@roswellgov.com" copyText="jpennino@roswellgov.com" >}}
   {{< card title="Brian Watson" icon="mail" subtitle="**Director of Environmental Public Works** <br> bwatson\@roswellgov.com" copyText="bwatson@roswellgov.com" >}}
   {{< card title="Steven Malone" icon="mail" subtitle="**Director of Recreation, Parks, Historic & Cultural Affairs** <br> smalone\@roswellgov.com" copyText="smalone@roswellgov.com" >}}
+{{< /cards >}}
+
+## Sign the Change.org petition
+{{< cards cols="1" >}}
+  {{< card link="https://c.org/4wcsP9Xgtf" title="Stop the placement of Fire Station #27 in East Roswell Park" icon="external-link" >}}
 {{< /cards >}}
