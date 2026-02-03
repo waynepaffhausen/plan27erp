@@ -24,36 +24,22 @@ If you would like to stay informed; please consider joining our Google Group. It
 - Only Owners and Managers can send emails to the group.
 {{< /callout >}}
 
-### To join the Google Group
-1. Use the button below to copy the email address into your clipboard. 
-2. Send a blank email to the address copied into your clipboard.
-{{< cards cols="1" >}}
-  {{< card title="Join the Group" icon="mail" subtitle="**Used to Subscribe** <br> plan-27erp+subscribe\@googlegroups.com" copyText="plan-27erp+subscribe@googlegroups.com" >}}
-{{< /cards >}}
 
-### To depart the Google Group
-1. Use the button below to copy the email address into your clipboard. 
-2. Send a blank email to the address copied into your clipboard.
-{{< cards cols="1" >}}
-  {{< card title="Depart the Group" icon="mail" subtitle="**Used to UnSubscribe** <br> plan-27erp+unsubscribe\@googlegroups.com" copyText="plan-27erp+unsubscribe@googlegroups.com" >}}
-{{< /cards >}}
-
-### Request to forward content
-1. Use the button below to copy the email address into your clipboard. 
-2. Send an email to the address copied into your clipboard.  **Full details and text are needed.**
-3. Content that is pertinent to the PLAN-27ERP Charter and approved by the Owners of the group will be forwaded to the distribution list.
-{{< cards cols="1" >}}
-  {{< card title="Request to forward content" icon="mail" subtitle="**Request Forwarding of Content** <br> plan-27erp+managers\@googlegroups.com" copyText="plan-27erp+managers@googlegroups.com" >}}
-{{< /cards >}}
-
-Appropriate things to send to us are:
-- Important messages or updates related to East Roswell Park and the Fire Station 27 relocation
-- Announcements related to East Roswell Park and the Fire Station 27 relocation
+1. To join the Google Group:
+    - Send a blank email to the address plan-27erp+subscribe@googlegroups.com
+2. To depart the Google Group
+    - Send a blank email to the address plan-27+unsubscribe@googlegroups.com
+3. To request content to be sent to the group:
+    - Send an email to plan-27+managers@googlegroups.com **Full details and text are needed.**
+    - Content that is pertinent to the PLAN-27ERP Charter and approved by the Owners of the group will be forwaded to the distribution list.
+    - Appropriate things to send to us to share are:
+      - Important messages or updates related to East Roswell Park and the Fire Station 27 relocation
+      - Announcements related to East Roswell Park and the Fire Station 27 relocation
 
 
 ## Share this website with your friends & neighbors
 {{< cards cols="1" >}}
-  {{< card title="PLAN-27ERP" icon="link" subtitle="**P**rotecting **L**and **a**nd **N**eighborhoods from Roswell Fire Station **27** being relocated inside **E**ast **R**oswell **P**ark" copyText="https://plan-27erp.netlify.app" >}}
+  {{< card title="PLAN-27ERP" icon="link" subtitle="Protecting Land and Neighborhoods from Roswell Fire Station 27 being relocated inside East Roswell Park" copyText="https://plan-27erp.netlify.app" >}}
 {{< /cards >}}
 
 ## Share your concerns directly with the City of Roswell
