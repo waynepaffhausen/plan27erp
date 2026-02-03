@@ -8,11 +8,11 @@ Thank you for your interest in helping to preserve the integrity of East Roswell
 ## Attend public meetings
 The [next public meeting is scheduled for Friday, February 13, 2026 at 8:30 a.m.](https://www.roswellgov.com/calendar-events/mayor-council-leadership-conference-recap-meeting-02-13-2026/) at [City Hall, Room 220](https://maps.app.goo.gl/mvRhDDuYPQey1G6P7).  Even if you are only able to attend a small portion of the meeting, it helps to show the city that there are many residents opposed to building the fire station in East Roswell Park.
 
-## Sign the Change.org petition
+<!-- ## Sign the Change.org petition
 If you don't have time to attend public meetings, please consider spending a moment to sign the petition! Every signature helps emphasize to the Mayor and City Council how important East Roswell Park is to our community
 {{< cards cols="1" >}}
   {{< card link="https://c.org/4wcsP9Xgtf" title="Stop the placement of Fire Station #27 in East Roswell Park" icon="external-link" >}}
-{{< /cards >}}
+{{< /cards >}} -->
 
 ## Our email group
 If you would like to stay informed; please consider joining our Google Group. It's best to use an `@gmail.com` email address.  Alternatively you can use a non\-`@gmail.com` by following the [Google instructions posted here.](https://support.google.com/groups/answer/1067205) 
