@@ -5,17 +5,44 @@ title: 'How Can I Help?'
 
 Thank you for your interest in helping to preserve the integrity of East Roswell Park and its surrounding neighborhoods!  We rely on volunteers like you to help us gather information, voice our concerns to the city, and spread the word to neighbors and park users.
 
-<!-- ## Join our email group -->
+## Attend public meetings
+The [next public meeting is scheduled for Feb. 13 from 8 a.m. to 2 p.m.](https://www.appenmedia.com/alpharetta_roswell/roswell-city-officials-lay-out-2026-priorities/article_8e4f487c-4dd6-45e0-acaf-b5a89f37d14e.html) at [Roswell River Landing, 245 Azalea Drive](https://maps.app.goo.gl/H9bzb6X21brgcsGs5).  Even if you are only able to attend a small portion of the meeting, it helps to show the city that there are many residents opposed to building the fire station in East Roswell Park.
 
+## Join our email group
+If you would like to stay informed; please consider joining our Google Group. It's best to use an `@gmail.com` email address.  Alternatively you can use a non\-`@gmail.com` by following the [Google instructions posted here.](https://support.google.com/groups/answer/1067205) 
+
+{{< callout type="important" >}} 
+- Members names and emails are obscured to Owners of the group only!
+- We will not use this list for any other distributions.
+- Only Owners and Managers can send emails.
+{{< /callout >}}
+
+### To join the Google Group
+1. Use the button below to copy the email address into your clip board. 
+2. Send a blank email to the address copied into your clipboard.
+{{< cards cols="1" >}}
+  {{< card title="Join the Group" icon="mail" subtitle="**Used to Subscribe** <br> plan-27erp+subscribe\@googlegroups.com" copyText="plan-27erp+subscribe@googlegroups.com" >}}
+{{< /cards >}}
+
+### To depart the Google Group
+1. Use the button below to copy the email address into your clip board. 
+2. Send a blank email to the address copied into your clipboard.
+{{< cards cols="1" >}}
+  {{< card title="Depart the Group" icon="mail" subtitle="**Used to UnSubscribe** <br> plan-27erp+unsubscribe\@googlegroups.com" copyText="plan-27erp+unsubscribe@googlegroups.com" >}}
+{{< /cards >}}
+
+### Request to forward content
+1. Use the button below to copy the email address into your clip board. 
+2. Send an email to the address copied into your clipboard.  **Full details and text are needed.**
+{{< cards cols="1" >}}
+  {{< card title="Request to forward content" icon="mail" subtitle="**Request Forwarding of Content** <br> plan-27erp+managers\@googlegroups.com" copyText="plan-27erp+managers@googlegroups.com" >}}
+{{< /cards >}}
 
 
 ## Share this website with your friends & neighbors
 {{< cards cols="1" >}}
   {{< card title="PLAN-27ERP" icon="link" subtitle="**P**rotecting **L**and **a**nd **N**eighborhoods from Roswell Fire Station **27** being relocated inside **E**ast **R**oswell **P**ark" copyText="https://plan-27erp.netlify.app" >}}
 {{< /cards >}}
-
-## Attend public meetings
-The [next public meeting is scheduled for Feb. 13 from 8 a.m. to 2 p.m.](https://www.appenmedia.com/alpharetta_roswell/roswell-city-officials-lay-out-2026-priorities/article_8e4f487c-4dd6-45e0-acaf-b5a89f37d14e.html) at [Roswell River Landing, 245 Azalea Drive](https://maps.app.goo.gl/H9bzb6X21brgcsGs5).  Even if you are only able to attend a small portion of the meeting, it helps to show the city that there are many residents opposed to building the fire station in East Roswell Park.
 
 ## Share your concerns directly with the City of Roswell
 You can reach out and email the Mayor, City Council and Deputy City Administrators.  
