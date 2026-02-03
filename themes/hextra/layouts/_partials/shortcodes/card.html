@@ -11,15 +11,19 @@
 {{- $tagColor := .tagColor | default .tagType | default "" -}}{{- /* Compatibility with previous parameter. */ -}}
 {{- $tagBorder := not (eq .tagBorder false) | default true }}
 {{- $tagIcon := .tagIcon -}}
-{{- $copyText := .copyText -}}
+{{- $copyText := .copyText | default "" -}}
 
 {{ $linkClass := "hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900" }}
 {{- with $image -}}
   {{ $linkClass = "hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700" }}
 {{- end -}}
 
-{{- $external := strings.HasPrefix $link "http" -}}
-{{- $href := cond (strings.HasPrefix $link "/") ($link | relURL) $link -}}
+{{- $external := false -}}
+{{- $href := "" -}}
+{{- if $link -}}
+  {{- $external = strings.HasPrefix $link "http" -}}
+  {{- $href = cond (strings.HasPrefix $link "/") ($link | relURL) $link -}}
+{{- end -}}
 
 {{/* Shared inner content: image, title, subtitle, tag */}}
 {{- define "card-inner" -}}
