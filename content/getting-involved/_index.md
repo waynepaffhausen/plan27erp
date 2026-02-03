@@ -24,27 +24,28 @@ If you would like to stay informed; please consider joining our Google Group. It
 - Only Owners and Managers can send emails to the group.
 {{< /callout >}}
 
-
 1. To join the Google Group:
     - Send a blank email to the address plan-27erp+subscribe@googlegroups.com
-2. To depart the Google Group
-    - Send a blank email to the address plan-27+unsubscribe@googlegroups.com
-3. To request content to be sent to the group:
+2. To request content to be sent to the group:
     - Send an email to plan-27+managers@googlegroups.com **Full details and text are needed.**
     - Content that is pertinent to the PLAN-27ERP Charter and approved by the Owners of the group will be forwaded to the distribution list.
     - Appropriate things to send to us to share are:
       - Important messages or updates related to East Roswell Park and the Fire Station 27 relocation
       - Announcements related to East Roswell Park and the Fire Station 27 relocation
 
+## Depart our email group
+1. To depart the Google Group
+    - Send a blank email to the address plan-27+unsubscribe@googlegroups.com
 
 ## Share this website with your friends & neighbors
 {{< cards cols="1" >}}
   {{< card title="PLAN-27ERP" icon="link" subtitle="Protecting Land and Neighborhoods from Roswell Fire Station 27 being relocated inside East Roswell Park" copyText="https://plan-27erp.netlify.app" >}}
 {{< /cards >}}
+*URL will be copied to your clipboard*
 
 ## Share your concerns directly with the City of Roswell
-You can reach out and email the Mayor, City Council and Deputy City Administrators.  
-<!-- *Clicking the card will copy the email address to your clipboard.* -->
+You can reach out and email the Mayor, City Council, Deputy City Administrators and key City Staff.
+
 ### Mayor and City Council
 | Name                  |    Title         |  Email                                  |
 |:----------------------|:-----------------|:----------------------------------------|
@@ -58,7 +59,7 @@ You can reach out and email the Mayor, City Council and Deputy City Administrato
 | Chris Zack            |  Councilmember   |   chriszack@roswellgov.com              |
 
 ### Deputy City Administrators & Staff
-| Name                  |  Titl-e                                                          |  Email                                  |
+| Name                  |  Title                                                           |  Email                                  |
 |:----------------------|:-----------------------------------------------------------------|:----------------------------------------|
 | Pabel Troche          |  Senior Vice President & Fire Chief                              |   ptroche@roswellgov.com                |
 | Sharon Izzo           |  Senior Vice President of Infrastructure                         |   sizzo@roswellgov.com                  |
