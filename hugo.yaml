@@ -63,6 +63,10 @@ menu:
       name: Getting Involved
       pageRef: /getting-involved
       weight: 4
+    - identifier: feedback
+      name: Feedback
+      pageRef: /feedback
+      weight: 5
     - name: Theme Toggle        # <-- add this
       weight: 6                 # set weight to position it where you want
       params:
@@ -82,7 +86,7 @@ params:
   banner:
     key: 'announcement'
     message: |
-      Mayor & Council Leadership Conference Recap Meeting:  Friday, February 13, 2026 at 8:30 a.m. Room 220 @ City Hall
+      [Next Public Meeting: Friday, February 13, 2026 at 8:30 a.m. Room 220 @ City Hall (Mayor & Council Leadership Conference Recap)](/getting-involved/#attend-public-meetings) 
 
   images:
     - images/og_image.png
