@@ -25,12 +25,12 @@ In addition to the two-story fire station building, the latest design also inclu
   - Much of the land for holes 3 and 5 will be lost, requiring substantial rework to fit them into an area typically only used for 1 hole
   - Holes 2, 6, and 7 will also likely have to be modified in order to make space to accommodate holes 3 & 5, in addition to the changes needed to make the course flow between the new locations
 
-## Why does the fire station need to be relocated?
+## Why is the city seeking to relocate fire station 27?
 In 2022, the City of Roswell hired a consulting firm to conduct a [gap analysis](https://www.roswellgov.com/wp-content/uploads/Roswell-Fire-Department-Strategic-Plan-20222027.pdf) of the Roswell Fire Department (RFD) and found that the RFD's travel times exceed modern standards.  The NFPA 1710 standard is a travel time under 4 minutes, 90% of the time.  However, [RFD's analysis](https://youtu.be/6mamySxSVWU?t=1013) of Fire Station 27 showed travel times of 6 minutes and 56 seconds, 90% of the time.
 
-In 2024, RFD [conducted a Fire Response analysis](https://youtu.be/1dhoO87rVdg?t=13692) simulating travel time improvements after both relocating Fire Station 27 AND implementing a new [traffic preemption system](https://en.wikipedia.org/wiki/Traffic_signal_preemption) that allows operators to override traffic lights to make way for emergency vehicles.  The simulations estimate that together, these changes could reduce travel times to 4 minutes and 48 seconds, 90% of the time.  No simulations using only the traffic preemption system, or only relocating the fire station were ever published.
+In 2024, RFD [conducted a Fire Response analysis](https://youtu.be/1dhoO87rVdg?t=13692) simulating travel time improvements after both relocating Fire Station 27 AND implementing a new [traffic preemption system](https://en.wikipedia.org/wiki/Traffic_signal_preemption) that allows operators to override traffic lights to make way for emergency vehicles.  The simulations estimate that together, these changes could reduce travel times to 4 minutes and 48 seconds, 90% of the time.
 
-In general, the [current location](https://maps.app.goo.gl/J9HgRkn8hKKtE68a6) of Fire Station 27 is very near both the city and county lines.  Relocating the fire station further west should reduce the travel time from the station to many Roswell addresses.
+No simulations using only the traffic preemption system, or only relocating the fire station were ever published.  Though in general, the [current location](https://maps.app.goo.gl/J9HgRkn8hKKtE68a6) of Fire Station 27 is very near both the city and county lines.  Relocating the fire station further west should reduce the travel time from the station to many Roswell addresses.
 
 ## How is this project being funded?
 
@@ -50,7 +50,7 @@ The 2024 Fire Response analysis used an optimization model to find a new locatio
 
 ## What other sites were evaluated?
 
-The 2023 site assessment evaluated 3 potential locations for relocating Fire Station 27:
+The 2023 site assessment looked at 3 potential locations for relocating Fire Station 27:
 - "Site 1" - [2350 Holcomb Bridge Road](https://www.google.com/maps/place/2350+Holcomb+Bridge+Rd,+Roswell,+GA+30076/@34.0036361,-84.2929164,18.92z/data=!4m6!3m5!1s0x88f50ac0c907c41f:0x92f03a5a953831c4!8m2!3d34.0038905!4d-84.2925151!16s%2Fg%2F11bw3_17tx), the site of the former Rite Aid
 - "Site 2" - [9140 Fouts Road](https://www.google.com/maps/place/9140+Fouts+Rd,+Roswell,+GA+30076/@34.0036361,-84.2929164,18.92z/data=!4m6!3m5!1s0x88f50ac0e523c88f:0x4dd3f73247968776!8m2!3d34.0024194!4d-84.293185!16s%2Fg%2F11c2dd681c), the site of Iglesia Pentecostés Church
 - "Site 3" - East Roswell Park along Fouts Road, the current planned location
