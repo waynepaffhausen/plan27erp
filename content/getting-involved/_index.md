@@ -8,6 +8,8 @@ Thank you for your interest in helping to preserve the integrity of East Roswell
 ## Attend public meetings
 The [next public meeting is scheduled for Friday, February 13, 2026 at 8:30 a.m.](https://www.roswellgov.com/calendar-events/mayor-council-leadership-conference-recap-meeting-02-13-2026/) at [City Hall, Room 220](https://maps.app.goo.gl/mvRhDDuYPQey1G6P7).  Even if you are only able to attend a small portion of the meeting, it helps to show the city that there are many residents opposed to building the fire station in East Roswell Park.
 
+Please note that this meeting is long because it intends to cover multiple topics from the recent leadership conference, not just the fire station.  Once the City of Roswell publishes an official agenda for the meeting, we will update this section with the agenda link and times for when the fire station topic will be discussed.
+
 <!-- ## Sign the Change.org petition
 If you don't have time to attend public meetings, please consider spending a moment to sign the petition! Every signature helps emphasize to the Mayor and City Council how important East Roswell Park is to our community
 {{< cards cols="1" >}}

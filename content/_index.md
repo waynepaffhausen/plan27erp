@@ -21,16 +21,13 @@ layout: hextra-home
 
 <div class="hx:mt-6"></div>
 
-
-<!-- The City of Roswell is planning to relocate Fire Station 27 from its previous location (link) to East Roswell Park.  The plan involves carving out 3-5 acres of heavily-used park land to construct the new site.  Park users, disc golf players, and local residents are opposed to this plan, and we need your help in demanding the city to find an alternative location. -->
-
-<div style="display: flex; flex-wrap: wrap; width: 100%; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; width: 100%; gap: 10px; margin-bottom:0.5rem">
   <div style="flex: 1 1; flex-basis: 350px;">
   {{< hextra/hero-section heading="h3" >}}
   What's happening with Fire Station 27?
   {{< /hextra/hero-section >}}
 
-  The City of Roswell is planning to relocate Fire Station 27 from its previous location (link) to East Roswell Park.  The plan involves carving out 3-5 acres of heavily-used park land to construct the new site.  Park users, disc golf players, and local residents are opposed to this plan, and we need your help in demanding the city find an alternative location.
+  The City of Roswell is planning to relocate Fire Station 27 from <u>[its previous location](https://maps.app.goo.gl/je6EJ3iUXxHtNHHV9)</u> to East Roswell Park.  The plan involves carving out 3-5 acres of heavily-used park land to construct the new site.  Park users, disc golf players, and local residents are opposed to this plan, and we need your help in demanding the city find an alternative location.
   </div>
 </div>
 
@@ -53,12 +50,12 @@ What's the big deal?
 Simply put — this plan is a cost-cutting measure that takes away park land in an effort to save money on another project.  The current plan damages the park amenities and nearby neighborhoods in the following ways:
 
 - Cutting down 221 trees
-- Displacing 3 disc golf holes in the most popular disc golf course in Georgia
+- Displacing several disc golf holes in the <u>[most popular disc golf course in Georgia](https://udisc.com/blog/post/most-popular-disc-golf-course-in-every-state-2025)</u>
 - Creating a dangerous pedestrian crossing by intersecting the fire engine driveway with the perimeter walking trail
 - Adding a large detention pond right alongside the perimeter walking trail
 - Putting fire engines less than 50 feet from the front doors of local residents
 - Adding congestion on an already narrow/congested side street
-- Potentially blocking the only entrance/exit for residents along Fouts Rd.
+- Potentially blocking the only entrance/exit for residents along Fouts Road
 
 <div style="display: flex; flex-wrap: wrap; width: 100%; gap: 10px;">
   <a href="/images/full-size/disc-golf-overlay.svg" target="_blank">
