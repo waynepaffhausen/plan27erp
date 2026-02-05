@@ -4,7 +4,7 @@ title: 'Feedback'
 toc: false
 ---
 
-If you have any questions, thoughts, comments or additions to this website; please reach out to:  plan-27erp-members+owners@googlegroups.com <br>
+If you have any questions, thoughts, comments or additions to this website; please reach out to: <br> plan-27erp-members+owners@googlegroups.com <p>
 Sending to the above mentioned email address **does not** require you to be a member of the group.
 
 **Thank you** <br>
