@@ -9,3 +9,4 @@ title: 'Links and Resources'
 - Recording of City of Roswell [Regular Council Meeting: Dec 9, 2024](https://youtu.be/1dhoO87rVdg?t=13692), agenda item "Fire Response Analysis Presentation".
   - Relevant segment begins at 3:48:12
 - Recording of [Public Information Meeting: Dec 10, 2025](https://www.youtube.com/watch?v=6mamySxSVWU) at East Roswell Park Rec Center
+- [Printable flyer](./Protect-Roswell-Park-Flyer.pdf) for distribution
