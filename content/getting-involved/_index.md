@@ -33,9 +33,11 @@ If you would like to stay informed; please consider joining our Google Group. It
 - Only Owners and Managers can send emails to the group.
 {{< /callout >}}
 
-| To join the group                      |  To leave the group                     |  To request forwarding of content     |
-|:---------------------------------------|:----------------------------------------|:--------------------------------------|
-| plan-27erp+subscribe@googlegroups.com  |  plan-27erp+unsubscribe@googlegroups.com  |   plan-27+managers@googlegroups.com   |
+{{< cards cols="3" >}}
+  {{< card link="mailto:plan-27erp-members+subscribe@googlegroups.com" title="Join the group" icon="mail" subtitle="Click here to JOIN the group." >}}
+  {{< card link="mailto:plan-27erp-members+unsubscribe@googlegroups.com" title="Leave the group" icon="mail" subtitle="Click here to LEAVE the group." >}}
+  {{< card link="mailto:plan-27erp-members+managers@googlegroups.com" title="Email group Admins" icon="mail" subtitle="Click here to REQUEST a group Admin to relay content." >}}
+{{< /cards >}}
 
 {{< callout type="info" >}} 
 - To join/depart the group only send a blank email
