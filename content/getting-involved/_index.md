@@ -15,6 +15,13 @@ If you don't have time to attend public meetings, please consider spending a mom
 {{< cards cols="1" >}}
   {{< card link="https://c.org/4wcsP9Xgtf" title="Stop the placement of Fire Station #27 in East Roswell Park" icon="external-link" >}}
 {{< /cards >}}
+*\*A new webpage will be opened*
+
+## Print and share a flyer
+Please consider downloading and using our printable flyer. It contains links and handy QR codes to the petition and this website. It can be handed out to neighbors, attached to mailboxes, or posted in other public places
+{{< cards cols="1" >}}
+  {{< card title="Download a Printable Flyer" icon="document" link="../resources/Protect-Roswell-Park-Flyer.pdf" >}}
+{{< /cards >}}
 
 ## Our email group
 If you would like to stay informed; please consider joining our Google Group. It's best to use an `@gmail.com` email address.  Alternatively you can use a non\-`@gmail.com` by following the [Google instructions posted here.](https://support.google.com/groups/answer/1067205) 
@@ -71,4 +78,3 @@ You can reach out and email the Mayor, City Council, Deputy City Administrators 
 | Joe Pennino           |  Senior Vice President of Planning, Performance, and Innovation  |   jpennino@roswellgov.com               |
 | Brian Watson          |  Director of Environmental Public Works                          |   bwatson@roswellgov.com                |
 | Steven Malone         |  Director of Recreation, Parks, Historic & Cultural Affairs      |   smalone@roswellgov.com                |
-
