@@ -17,6 +17,12 @@ If you don't have time to attend public meetings, please consider spending a mom
 {{< /cards >}}
 *\*A new webpage will be opened*
 
+## Print and share a flyer
+Please consider downloading and using our printable flyer. It contains links and handy QR codes to the petition and this website. It can be handed out to neighbors, attached to mailboxes, or posted in other public places
+{{< cards cols="1" >}}
+  {{< card title="Download a Printable Flyer" icon="document" link="../resources/Protect-Roswell-Park-Flyer.pdf" >}}
+{{< /cards >}}
+
 ## Our email group
 If you would like to stay informed; please consider joining our Google Group. It's best to use an `@gmail.com` email address.  Alternatively you can use a non\-`@gmail.com` by following the [Google instructions posted here.](https://support.google.com/groups/answer/1067205) 
 
@@ -70,9 +76,3 @@ You can reach out and email the Mayor, City Council, Deputy City Administrators 
 | Joe Pennino           |  Senior Vice President of Planning, Performance, and Innovation  |   jpennino@roswellgov.com               |
 | Brian Watson          |  Director of Environmental Public Works                          |   bwatson@roswellgov.com                |
 | Steven Malone         |  Director of Recreation, Parks, Historic & Cultural Affairs      |   smalone@roswellgov.com                |
-
-## Print and share a flyer
-If you want to help and pass along a flyer of information or post in a public place, please consider download and using our printable flyer.  It contains handy and easily usable QR codes as well as URLs to the petition and this website.
-{{< cards cols="1" >}}
-  {{< card title="Download a Printable Flyer" icon="document" link="../resources/Protect-Roswell-Park-Flyer.pdf" >}}
-{{< /cards >}}
