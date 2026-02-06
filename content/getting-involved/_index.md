@@ -6,9 +6,13 @@ title: 'How Can I Help?'
 Thank you for your interest in helping to preserve the integrity of East Roswell Park and its surrounding neighborhoods!  We rely on volunteers like you to help us gather information, voice our concerns to the city, and spread the word to neighbors and park users.
 
 ## Attend public meetings
-The [next public meeting is scheduled for Friday, February 13, 2026 at 8:30 a.m.](https://www.roswellgov.com/calendar-events/mayor-council-leadership-conference-recap-meeting-02-13-2026/) at [City Hall, Room 220](https://maps.app.goo.gl/mvRhDDuYPQey1G6P7).  Even if you are only able to attend a small portion of the meeting, it helps to show the city that there are many residents opposed to building the fire station in East Roswell Park.
+The [next public meeting is scheduled for Friday, February 13, 2026 at 8:30 a.m.](https://www.roswellgov.com/calendar-events/mayor-council-leadership-conference-recap-meeting-02-13-2026/) at [City Hall, Room 220](https://maps.app.goo.gl/mvRhDDuYPQey1G6P7).  The city also plans to live-stream this meeting, with the streams typically going live on their [YouTube page](https://www.youtube.com/@CityOfRoswell/streams).  Even if you are only able to attend a small portion of the meeting, it helps to show the city that there are many residents opposed to building the fire station in East Roswell Park.
 
-Please note that this meeting is long because it intends to cover multiple topics from the recent leadership conference, not just the fire station.  Once the City of Roswell publishes an official agenda for the meeting, we will update this section with the agenda link and times for when the fire station topic will be discussed.
+Please note that this meeting is long because it intends to cover multiple topics from the recent leadership conference, not just the fire station.  It is structured as a "working session" for the elected officials and staff.  There will most likely not be any formal opportunity for input or comment.  The benefits of attending are mainly being able to hear directly what the various officials/staff have to say, what questions they asked, and to have informal face-to-face conversations with them during the breaks.
+
+{{< cards cols="1" >}}
+  {{< card link="https://roswellcityga.iqm2.com/Citizens/Detail_Meeting.aspx?ID=3821" title="Livestream/Agenda" icon="external-link" subtitle="Click Here to go to the City of Roswell page for livestream and agenda details." >}}
+{{< /cards >}}
 
 ## Sign the Change.org petition
 If you don't have time to attend public meetings, please consider spending a moment to sign the petition! Every signature helps emphasize to the Mayor and City Council how important East Roswell Park is to our community
