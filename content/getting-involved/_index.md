@@ -27,7 +27,7 @@ Please consider downloading and using our printable flyer. It contains links and
   {{< card title="Download a Printable Flyer" icon="document" link="../resources/Protect-Roswell-Park-Flyer.pdf" >}}
 {{< /cards >}}
 
-## Our email group
+<!-- ## Our email group
 If you would like to stay informed; please consider joining our Google Group. It's best to use an `@gmail.com` email address.  Alternatively you can use a non\-`@gmail.com` by following the [Google instructions posted here.](https://support.google.com/groups/answer/1067205) 
 
 {{< callout type="important" >}} 
@@ -50,7 +50,7 @@ If you would like to stay informed; please consider joining our Google Group. It
   - Appropriate things to send to us to share are:
     - Important messages or updates related to East Roswell Park and the Fire Station 27 relocation
     - Announcements related to East Roswell Park and the Fire Station 27 relocation
-{{< /callout >}}
+{{< /callout >}} -->
 
 ## Share this website with your friends & neighbors
 {{< cards cols="1" >}}
