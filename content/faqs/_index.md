@@ -20,7 +20,7 @@ In addition to the two-story fire station building, the latest design also inclu
   - This is needed to handle stormwater drainage due to the large amount of paved surface that will be added by the fire station
   - Underground detention [was dropped from consideration](https://youtu.be/6mamySxSVWU?t=3294) because of cost concerns
 - The [removal of 221 trees](https://youtu.be/6mamySxSVWU?t=3399), mostly around disc golf holes 3, 4, and 5, and also potentially along the walking trail leading into the park near the dog park.
-- Removing over 5+ acres of wooded green space
+- Removing over 5.375 acres of wooded green space for a 10,500sq/ft station as noted in the [Professional Services Supplemental Agreement](../resources/Fire%20Station%2027%20-%20Professional%20Services%20Supplemental%20Agreement.pdf)
 - The displacement of several disc golf holes, diminishing the quality of the [most popular disc golf course in Georgia](https://udisc.com/blog/post/most-popular-disc-golf-course-in-every-state-2025)
   - Hole 4 will be completely lost due to being in the footprint of the new fire station
   - Much of the land for holes 3 and 5 will be lost, requiring substantial rework to fit them into an area typically only used for 1 hole

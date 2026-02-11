@@ -49,8 +49,8 @@ What's the big deal?
 
 Simply put — this plan is a cost-cutting measure that takes away park land in an effort to save money on another project.  The current plan damages the park amenities and nearby neighborhoods in the following ways:
 
-- Removing over 5+ acres of wooded green space
-- Cutting down 221 trees
+- <u>[Removing 5.375 acres](./resources/Fire%20Station%2027%20-%20Professional%20Services%20Supplemental%20Agreement.pdf)</u> of wooded green space
+- <u>[Cutting down 221 trees](https://youtu.be/6mamySxSVWU?t=3399)</u>
 - Displacing several disc golf holes in the <u>[most popular disc golf course in Georgia](https://udisc.com/blog/post/most-popular-disc-golf-course-in-every-state-2025)</u>
 - Creating a dangerous pedestrian crossing by intersecting the fire engine driveway with the perimeter walking trail
 - Adding a large detention pond right alongside the perimeter walking trail
