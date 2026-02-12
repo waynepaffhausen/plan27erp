@@ -49,7 +49,7 @@ What's the big deal?
 
 Simply put — this plan is a cost-cutting measure that takes away park land in an effort to save money on another project.  The current plan damages the park amenities and nearby neighborhoods in the following ways:
 
-- <a href="https://roswellcityga.iqm2.com/Citizens/FileOpen.aspx?Type=4&ID=22048&MeetingID=3288" target="_blank" style="color: var(--hx-color-primary-600); text-decoration: underline;">Removing 5.375 acres</a> of wooded green space
+- <a href="https://roswellcityga.iqm2.com/Citizens/FileOpen.aspx?Type=4&ID=22048&MeetingID=3288&Inline=True" target="_blank" style="color: var(--hx-color-primary-600); text-decoration: underline;">Removing 5.375 acres</a> of wooded green space
 - <a href="https://youtu.be/6mamySxSVWU?t=3399" target="_blank" style="color: var(--hx-color-primary-600); text-decoration: underline;">Cutting down 221 trees</a></u>
 - Displacing several disc golf holes in the <a href="https://udisc.com/blog/post/most-popular-disc-golf-course-in-every-state-2025" target="_blank" style="color: var(--hx-color-primary-600); text-decoration: underline;">most popular disc golf course in Georgia</a>
 - Creating a dangerous pedestrian crossing by intersecting the fire engine driveway with the perimeter walking trail
