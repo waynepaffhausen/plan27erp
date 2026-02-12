@@ -10,3 +10,4 @@ title: 'Links and Resources'
   - Relevant segment begins at 3:48:12
 - Recording of [Public Information Meeting: Dec 10, 2025](https://www.youtube.com/watch?v=6mamySxSVWU) at East Roswell Park Rec Center
 - [Printable flyer](./Protect-Roswell-Park-Flyer.pdf) for distribution
+- The [Professional Services Supplemental Agreement](./Fire%20Station%2027%20-%20Professional%20Services%20Supplemental%20Agreement.pdf)
