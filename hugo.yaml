@@ -87,10 +87,10 @@ params:
   sidebar:
     disable: true
 
-  banner:
-    key: 'announcement'
-    message: |
-      [🎉 Live streaming now: Leadership Conference Recap](https://www.youtube.com/watch?v=LWTq_U01lVk) 
+  # banner:
+  #   key: 'announcement'
+  #   message: |
+  #     [🎉 Live streaming now: Leadership Conference Recap](https://www.youtube.com/watch?v=LWTq_U01lVk) 
 
   images:
     - images/og_image.png
