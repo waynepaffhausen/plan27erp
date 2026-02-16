@@ -87,6 +87,8 @@ params:
   sidebar:
     disable: true
 
+  externalLinkDecoration: true
+  
   # banner:
   #   key: 'announcement'
   #   message: |
