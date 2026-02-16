@@ -20,6 +20,7 @@
 [class*="items-start"] li {
   margin-bottom: 0.25rem;
 }
+/* --- END --- */
 
 /* Target the specific flex container on homepage that wraps cards */
 .hx\:flex.hx\:flex-col.hx\:items-start .hextra-cards {
@@ -33,3 +34,15 @@
     grid-template-columns: 1fr !important;
   }
 }
+/* --- END --- */
+
+/* Target the sidebar container class */
+.hextra-sidebar-container {
+  display: none !important;
+}
+
+/* Expand content area */
+.max-w-\[90rem\] {
+  margin-left: 0 !important;
+}
+/* --- END --- */
