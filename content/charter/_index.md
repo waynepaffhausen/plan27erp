@@ -5,6 +5,7 @@ title: 'PLAN-27ERP Charter'
 width: full
 sidebar:
   hide: true
+  width: 0
 ---
 
 **P**rotecting **L**and **a**nd **N**eighborhoods from Roswell Fire Station **27** being relocated inside **E**ast **R**oswell **P**ark

@@ -35,10 +35,3 @@
   }
 }
 /* --- END --- */
-
-/* Remove sidebar space when sidebar.hide is true */
-.hextra-sidebar-container.hx\:md\:hidden {
-  display: none !important;
-  width: 0 !important;
-}
-/* --- END --- */
