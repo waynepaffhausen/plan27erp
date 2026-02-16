@@ -27,7 +27,7 @@ layout: hextra-home
   What's happening with Fire Station 27?
   {{< /hextra/hero-section >}}
 
-  The City of Roswell is planning to relocate Fire Station 27 from <u>[its previous location](https://maps.app.goo.gl/je6EJ3iUXxHtNHHV9)</u> to East Roswell Park.  The plan involves carving out 3-5 acres of heavily-used park land to construct the new site.  Park users, disc golf players, and local residents are opposed to this plan, and we need your help in demanding the city find an alternative location.
+  The City of Roswell is planning to relocate Fire Station 27 from <a href="https://maps.app.goo.gl/je6EJ3iUXxHtNHHV9" target="_blank" style="color: var(--hx-color-primary-600); text-decoration: underline;">its previous location<svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"> <path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"></path></svg></a> to East Roswell Park.  The plan involves carving out 3-5 acres of heavily-used park land to construct the new site.  Park users, disc golf players, and local residents are opposed to this plan, and we need your help in demanding the city find an alternative location.
   </div>
 </div>
 
@@ -49,9 +49,9 @@ What's the big deal?
 
 Simply put — this plan is a cost-cutting measure that takes away park land in an effort to save money on another project.  The current plan damages the park amenities and nearby neighborhoods in the following ways:
 
-- <a href="https://roswellcityga.iqm2.com/Citizens/FileOpen.aspx?Type=4&ID=22048&MeetingID=3288&Inline=True" target="_blank" style="color: var(--hx-color-primary-600); text-decoration: underline;">Removing 5.375 acres</a> of wooded green space
-- <a href="https://youtu.be/6mamySxSVWU?t=3399" target="_blank" style="color: var(--hx-color-primary-600); text-decoration: underline;">Cutting down 221 trees</a></u>
-- Displacing several disc golf holes in the <a href="https://udisc.com/blog/post/most-popular-disc-golf-course-in-every-state-2025" target="_blank" style="color: var(--hx-color-primary-600); text-decoration: underline;">most popular disc golf course in Georgia</a>
+- <a href="https://roswellcityga.iqm2.com/Citizens/FileOpen.aspx?Type=4&ID=22048&MeetingID=3288&Inline=True" target="_blank" style="color: var(--hx-color-primary-600); text-decoration: underline;">Removing 5.375 acres<svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"> <path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"></path></svg></a> of wooded green space
+- <a href="https://youtu.be/6mamySxSVWU?t=3399" target="_blank" style="color: var(--hx-color-primary-600); text-decoration: underline;">Cutting down 221 trees<svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"> <path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"></path></svg></a></u>
+- Displacing several disc golf holes in the <a href="https://udisc.com/blog/post/most-popular-disc-golf-course-in-every-state-2025" target="_blank" style="color: var(--hx-color-primary-600); text-decoration: underline;">most popular disc golf course in Georgia<svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"> <path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"></path></svg></a>
 - Creating a dangerous pedestrian crossing by intersecting the fire engine driveway with the perimeter walking trail
 - Adding a large detention pond right alongside the perimeter walking trail
 - Putting fire engines less than 50 feet from the front doors of local residents
