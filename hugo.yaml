@@ -1,12 +1,12 @@
 # Configuration
-baseURL: https://example.org/
+baseURL: https://ProtectEastRoswellPark.org
 languageCode: en-us
 title: PLAN-27ERP Home
 theme: hextra
 
 enableRobotsTXT: true
 enableGitInfo: true
-# enableEmoji: false
+enableEmoji: true
 hasCJKLanguage: true
 
 disableKinds:
@@ -87,6 +87,8 @@ params:
   sidebar:
     disable: true
 
+  externalLinkDecoration: true
+  
   # banner:
   #   key: 'announcement'
   #   message: |

@@ -1,6 +1,9 @@
 ---
 title: 'Links and Resources'
 #date: 2026-01-29T09:38:51-05:00
+sidebar:
+  hide: true
+  width: 0
 ---
 
 ## City of Roswell official meetings and documents

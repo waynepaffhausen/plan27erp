@@ -2,6 +2,9 @@
 title: 'Feedback'
 #date: 2026-01-29T09:38:51-05:00
 toc: false
+sidebar:
+  hide: true
+  width: 0
 ---
 
 If you have any questions, thoughts, comments or additions to this website; please reach out to: <br> plan-27erp+owners@googlegroups.com <p>

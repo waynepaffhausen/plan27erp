@@ -3,6 +3,9 @@ title: 'PLAN-27ERP Charter'
 # date: 2026-01-29T09:38:51-05:00
 #excludeSearch: true
 width: full
+sidebar:
+  hide: true
+  width: 0
 ---
 
 **P**rotecting **L**and **a**nd **N**eighborhoods from Roswell Fire Station **27** being relocated inside **E**ast **R**oswell **P**ark
