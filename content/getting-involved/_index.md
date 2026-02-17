@@ -11,13 +11,10 @@ Thank you for your interest in helping to preserve the integrity of East Roswell
 ## Attend public meetings
 Attending a public meeting allows residents to directly influence local decisions, gain firsthand information, and hold officials accountable, strengthening community connections. It provides a platform to share opinions, network with neighbors, and ensure transparency in governance. These meetings enable stakeholders to engage in shared learning and collaborate on solutions. 
 
-Key benefits of attending a public meeting include:
-- **Influence and Participation:** Provides a formal opportunity to voice concerns and directly influence local, state, or regional decisions.
-- **Transparency and Accountability:** Promotes oversight, encouraging public officials to be more careful and ethical in their decision-making process.
-- **Accurate Information:** Offers direct access to information about local projects, avoiding misinterpretations often found online or through rumors.
-- **Networking and Community Building:** Connects residents with neighbors, community leaders, and local organizations, allowing for collaborative problem-solving.
-- **Diverse Perspectives:** Enables attendees to hear multiple viewpoints on a topic, encouraging a better understanding of community needs.
-- **Accessible Options:** Many boards now offer hybrid or streamed meetings, increasing accessibility for those with busy schedules or mobility challenges. 
+{{< cards cols="1" >}}
+  {{< card link="https://www.roswellgov.com/government/city-meetings-calendar/" title="Roswell City Meetings Calendar" icon="external-link" >}}
+{{< /cards >}}
+*\*A new webpage will be opened*
 
 ## Share your concerns directly with the City of Roswell
 You can reach out and email the Mayor, City Council, Deputy City Administrators and key City Staff.
@@ -59,6 +56,6 @@ If you don't have time to attend public meetings, please consider spending a mom
 
 ## Print and share a flyer
 Please consider downloading and using our printable flyer. It contains links and handy QR codes to the petition and this website. It can be handed out to neighbors, attached to mailboxes, or posted in other public places
-{{< cards cols="1" >}}
-  {{< card title="Download a Printable Flyer" icon="document" link="../resources/Protect-Roswell-Park-Flyer.pdf" >}}
+{{< cards cols="2" >}}
+  {{< card title="Download and distribute a printable flyer" icon="document" link="../resources/#other-materials" >}}
 {{< /cards >}}
