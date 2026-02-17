@@ -76,6 +76,13 @@ menu:
       params:
         type: theme-toggle
         label: true   
+    
+  sidebar:
+    # disable: true
+    - identifier: Petition
+      name: Petition
+      url: https://c.org/4wcsP9Xgtf
+      weight: 1
 
   # footer:
   #   - identifier: footertext
@@ -84,9 +91,6 @@ menu:
 params:
   #description: Take control of your online privacy. Beginner Privacy helps you protect your data with simple guides and a clear, actionable roadmap.
   
-  sidebar:
-    disable: true
-
   externalLinkDecoration: true
   
   # banner:
