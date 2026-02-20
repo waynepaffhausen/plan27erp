@@ -40,11 +40,11 @@ sidebar:
 - Full meeting recording: ([link](https://www.youtube.com/watch?v=6mamySxSVWU))
 
 **2026-01-22**: Mayor and Council Leadership Conference ([source](https://roswellcityga.iqm2.com/Citizens/Detail_Meeting.aspx?ID=3790))
-- [Fire Stations Update](https://library.municode.com/ga/roswell/munidocs/munidocs?nodeId=8c8bef59d1000) presentation slides
+- [Fire Stations Update](https://library.municode.com/ga/roswell/munidocs/munidocs?nodeId=8c8bef59d1000/pdf) presentation slides
 
 **2026-02-13**: Mayor and Council Leadership Conference Recap ([source](https://roswellcityga.iqm2.com/Citizens/Detail_Meeting.aspx?ID=3821))
 - No official agenda was published ([link](https://roswellcityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3471&Inline=True))
-<!-- - [Fire Stations Update](https://library.municode.com/ga/roswell/munidocs/munidocs?nodeId=8c8bef59d1000) presentation slides -->
+  - [Fire Stations Update](https://mcclibraryfunctions.azurewebsites.us/api/munidocDownload/30952/8d6369301a14c/pdf) presentation slides
 - Full meeting recording: ([link](https://youtu.be/LWTq_U01lVk?t=11302))
   - Link begins at 3:08:22, the beginning of "Fire Station #27 Siting Analysis"
 
