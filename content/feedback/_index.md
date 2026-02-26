@@ -1,7 +1,6 @@
 ---
 title: 'Feedback'
 #date: 2026-01-29T09:38:51-05:00
-toc: false
 sidebar:
   hide: true
   width: 0

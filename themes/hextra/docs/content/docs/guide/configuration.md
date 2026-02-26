@@ -307,6 +307,8 @@ The date of the page's last modification can be displayed by enabling the `param
 
 To customize the date format, set the `params.dateFormat` parameter. Its layout matches Hugo's [`time.Format`](https://gohugo.io/functions/time/format/).
 
+Additionally, the author of the last modification can be displayed by enabling the `params.displayUpdatedAuthor` flag. This requires `enableGitInfo: true` to be set.
+
 ```yaml {filename="hugo.yaml"}
 # Parse Git commit
 enableGitInfo: true
@@ -315,6 +317,8 @@ params:
   # Display the last modification date
   displayUpdatedDate: true
   dateFormat: "January 2, 2006"
+  # Display the author of the last modification
+  displayUpdatedAuthor: true
 ```
 
 ### Tags
@@ -360,7 +364,7 @@ params:
 
 ### Page Width
 
-The width of the page can be customized by the `params.page.width` parameter in the config file:
+The layout shell width can be customized by the `params.page.width` parameter in the config file:
 
 ```yaml {filename="hugo.yaml"}
 params:
@@ -369,7 +373,17 @@ params:
     width: wide
 ```
 
-There are three available options: `full`, `wide`, and `normal`. By default, the page width is set to `normal`.
+Available options for `params.page.width`: `full`, `wide`, `normal`.
+
+The main reading content width remains fixed at `72rem` by default.
+
+To customize content width, override the CSS variable in your custom stylesheet:
+
+```css {filename="assets/css/custom.css"}
+:root {
+  --hextra-max-content-width: 100%;
+}
+```
 
 Similarly, the width of the navbar and footer can be customized by the `params.navbar.width` and `params.footer.width` parameters.
 

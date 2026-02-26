@@ -92,11 +92,15 @@ params:
   #description: Take control of your online privacy. Beginner Privacy helps you protect your data with simple guides and a clear, actionable roadmap.
   
   externalLinkDecoration: true
-  
-  # banner:
-  #   key: 'announcement'
-  #   message: |
-  #     [🎉 Live streaming now: Leadership Conference Recap](https://www.youtube.com/watch?v=LWTq_U01lVk) 
+
+  author:
+    name: "PLAN-27ERP"
+    email: "plan-27erp+owner@googlegroups.com"
+      
+  banner:
+    key: 'announcement-meeting'
+    message: |
+      [🎉 New Public Meeting:  Tuesday, March 3rd, 2026 @ East Roswell Recreation Center](https://www.roswellconnections.com/FireStation27/)
 
   images:
     - images/og_image.png

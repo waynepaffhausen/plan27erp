@@ -285,6 +285,8 @@ params:
 
 日付形式をカスタマイズするには、`params.dateFormat` パラメータを設定します。そのレイアウトは Hugo の [`time.Format`](https://gohugo.io/functions/time/format/) に準拠します。
 
+さらに、`params.displayUpdatedAuthor` フラグを有効にすると、最終更新の作者を表示できます。これには `enableGitInfo: true` の設定が必要です。
+
 ```yaml {filename="hugo.yaml"}
 # Git コミットを解析
 enableGitInfo: true
@@ -293,6 +295,8 @@ params:
   # 最終更新日を表示
   displayUpdatedDate: true
   dateFormat: "2006年1月2日"
+  # 最終更新の作者を表示
+  displayUpdatedAuthor: true
 ```
 
 ### タグ
@@ -338,7 +342,7 @@ params:
 
 ### ページ幅
 
-ページの幅は設定ファイルの `params.page.width` パラメータでカスタマイズできます：
+レイアウト全体の幅は `params.page.width` で設定できます：
 
 ```yaml {filename="hugo.yaml"}
 params:
@@ -347,7 +351,17 @@ params:
     width: wide
 ```
 
-利用可能なオプションは `full`、`wide`、`normal` の3つです。デフォルトではページ幅は `normal` に設定されています。
+`params.page.width` の選択肢は `full`、`wide`、`normal` です。
+
+本文コンテンツ幅はデフォルトで `72rem` に固定されています。
+
+コンテンツ幅を変更したい場合は、カスタムスタイルシートで CSS 変数を上書きしてください：
+
+```css {filename="assets/css/custom.css"}
+:root {
+  --hextra-max-content-width: 100%;
+}
+```
 
 同様に、ナビゲーションバーとフッターの幅は `params.navbar.width` と `params.footer.width` パラメータでカスタマイズできます。
 

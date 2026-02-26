@@ -2,8 +2,9 @@
 #title: Hextra Theme
 layout: hextra-home
 ---
+
 <div style="position: relative; width: 100%; margin: 0 auto;">
-  <img src="/images/proposed_site.jpg" alt="Description" style="width: 100%; max-height: 350px; display: block; border-radius: 8px;">
+  <img src="/images/protest-sign-2.png" alt="Description" style="width: 100%; max-height: 100%; display: block; border-radius: 8px;">
   <div style="
     position: absolute;
     bottom: 0;
@@ -14,67 +15,15 @@ layout: hextra-home
     padding: 40px 20px 20px;
     border-radius: 0 0 2px 2px;
   ">
-    <h1 style="margin: 0 0 8px; font-size: clamp(2vw, 4vw, 3rem); font-weight: bold; color: white">Protect East Roswell Park!</h1>
-    <p style="margin: 0; font-size: clamp(0.8rem, 1.5vw, 1.5rem); opacity: 0.85;">Prevent Fire Station 27 from being built on park land</p>
   </div>
 </div>
 
 <div class="hx:mt-6"></div>
 
-<div style="display: flex; flex-wrap: wrap; width: 100%; gap: 10px; margin-bottom:0.5rem">
-  <div style="flex: 1 1; flex-basis: 350px;">
-  {{< hextra/hero-section heading="h3" >}}
-  What's happening with Fire Station 27?
-  {{< /hextra/hero-section >}}
-
-  The City of Roswell is planning to relocate Fire Station 27 from <a href="https://maps.app.goo.gl/je6EJ3iUXxHtNHHV9" target="_blank" style="color: var(--hx-color-primary-600); text-decoration: underline;">its previous location<svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"> <path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"></path></svg></a> to East Roswell Park.  The plan involves carving out 3-5 acres of heavily-used park land to construct the new site.  Park users, disc golf players, and local residents are opposed to this plan, and we need your help in demanding the city find an alternative location.
-  </div>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; width: 100%; gap: 10px;">
-  <a href="/images/full-size/fire-station-sign.jpg" target="_blank">
-    <img src="/images/fire-station-sign.jpg" style="max-height: clamp(200px, 35vw, 500px)" />
-  </a>
-
-  <a href="/images/full-size/fouts-road-cottages2.jpg" target="_blank">
-    <img src="/images/fouts-road-cottages2.png" style="max-height: clamp(200px, 35vw, 500px)">
-  </a>
-</div>
-
-<div class="hx:mt-6"></div>
-
 {{< hextra/hero-section heading="h3" >}}
-What's the big deal?
+Continue into site...
 {{< /hextra/hero-section >}}
 
-Simply put — this plan is a cost-cutting measure that takes away park land in an effort to save money on another project.  The current plan damages the park amenities and nearby neighborhoods in the following ways:
-
-- <a href="https://roswellcityga.iqm2.com/Citizens/FileOpen.aspx?Type=4&ID=22048&MeetingID=3288&Inline=True" target="_blank" style="color: var(--hx-color-primary-600); text-decoration: underline;">Removing 5.375 acres<svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"> <path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"></path></svg></a> of wooded green space
-- <a href="https://youtu.be/6mamySxSVWU?t=3399" target="_blank" style="color: var(--hx-color-primary-600); text-decoration: underline;">Cutting down 221 trees<svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"> <path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"></path></svg></a></u>
-- Displacing several disc golf holes in the <a href="https://udisc.com/blog/post/most-popular-disc-golf-course-in-every-state-2025" target="_blank" style="color: var(--hx-color-primary-600); text-decoration: underline;">most popular disc golf course in Georgia<svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"> <path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"></path></svg></a>
-- Creating a dangerous pedestrian crossing by intersecting the fire engine driveway with the perimeter walking trail
-- Adding a large detention pond right alongside the perimeter walking trail
-- Putting fire engines less than 50 feet from the front doors of local residents
-- Adding congestion on an already narrow/congested side street
-- Potentially blocking the only entrance/exit for residents along Fouts Road
-
-<div style="display: flex; flex-wrap: wrap; width: 100%; gap: 10px;">
-  <a href="/images/full-size/disc-golf-overlay.svg" target="_blank">
-    <img src="/images/disc-golf-overlay.png" style="max-height: clamp(200px, 35vw, 500px)">
-  </a>
-
-  <a href="/images/full-size/Impacts-on-Disc-Golf.jpg" target="_blank">
-    <img src="/images/Impacts-on-Disc-Golf.png" style="max-height: clamp(200px, 35vw, 500px)">
-  </a>
-</div>
-
-<div class="hx:mt-6"></div>
-
-{{< hextra/hero-section heading="h3" >}}
-What can I do to help?
-{{< /hextra/hero-section >}}
-
-{{< cards cols="2" >}}
-  {{< card link="https://c.org/4wcsP9Xgtf" title="Stop the placement of Fire Station #27 in East Roswell Park" icon="external-link" subtitle="Sign the Petition on <u>change.org</u>" >}}
-  {{< card link="getting-involved" title="Getting Involved" icon="document-text" subtitle="Learn how to help by getting involved!" >}}
+{{< cards cols="1" >}}
+  {{< card link="./home" title="Continue to Website" icon="external-link" >}}
 {{< /cards >}}

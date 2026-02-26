@@ -10,6 +10,19 @@ sidebar:
 Thank you for your interest in helping to preserve the integrity of East Roswell Park and its surrounding neighborhoods!  We rely on volunteers like you to help us gather information, voice our concerns to the city, and spread the word to neighbors and park users.
 
 ## Attend public meetings
+### City of Roswell to Host Community Update on Fire Station #27 Plans on March 3
+Community members are encouraged to attend this informational session, as Mayor Mary Robichaux and City staff share project updates and what to expect as plans move forward.
+- This is our **LAST OPPORTUNITY** to voice your concerns
+- The city has ignored the petition, so we need **YOU** to show up in order to demonstrate how many people care
+- Date/Time:  Tuesday, March 3 at 6:00 p.m. at the East Roswell Recreation Center, 9000 Fouts Road, Roswell.
+- Wear **GREEN** and bring a sign
+- Bring a friend and encourage that friend to bring a friend!
+
+{{< cards cols="1" >}}
+  {{< card link="www.RoswellConnections.com/FireStation27" title="Roswell Connections" icon="external-link" >}}
+{{< /cards >}}
+*\*A new webpage will be opened*
+
 Attending a public meeting allows residents to directly influence local decisions, gain firsthand information, and hold officials accountable, strengthening community connections. It provides a platform to share opinions, network with neighbors, and ensure transparency in governance. These meetings enable stakeholders to engage in shared learning and collaborate on solutions. 
 
 {{< cards cols="1" >}}

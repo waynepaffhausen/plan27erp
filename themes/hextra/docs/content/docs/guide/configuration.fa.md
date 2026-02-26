@@ -285,6 +285,8 @@ params:
 
 برای سفارشی کردن فرمت تاریخ، پارامتر `params.dateFormat` را تنظیم کنید. چیدمان آن با [`time.Format`](https://gohugo.io/functions/time/format/) Hugo مطابقت دارد.
 
+علاوه بر این، می‌توانید با فعال کردن پرچم `params.displayUpdatedAuthor` نویسنده آخرین تغییر را نمایش دهید. این نیاز به تنظیم `enableGitInfo: true` دارد.
+
 ```yaml {filename="hugo.yaml"}
 # تجزیه commit Git
 enableGitInfo: true
@@ -293,6 +295,8 @@ params:
   # نمایش تاریخ آخرین تغییر
   displayUpdatedDate: true
   dateFormat: "January 2, 2006"
+  # نمایش نویسنده آخرین تغییر
+  displayUpdatedAuthor: true
 ```
 
 ### برچسب‌ها
@@ -338,7 +342,7 @@ params:
 
 ### عرض صفحه
 
-عرض صفحه را می‌توان با پارامتر `params.page.width` در فایل پیکربندی سفارشی کرد:
+عرض پوستهٔ صفحه را می‌توان با پارامتر `params.page.width` تنظیم کرد:
 
 ```yaml {filename="hugo.yaml"}
 params:
@@ -347,7 +351,17 @@ params:
     width: wide
 ```
 
-سه گزینه موجود است: `full`, `wide`, و `normal`. به طور پیش‌فرض، عرض صفحه روی `normal` تنظیم شده است.
+گزینه‌های `params.page.width`: `full`، `wide`، و `normal`.
+
+عرض محتوای اصلی به صورت پیش‌فرض روی `72rem` ثابت است.
+
+برای سفارشی‌سازی عرض محتوا، متغیر CSS را در فایل استایل سفارشی خود بازنویسی کنید:
+
+```css {filename="assets/css/custom.css"}
+:root {
+  --hextra-max-content-width: 100%;
+}
+```
 
 به طور مشابه، عرض نوار ناوبری و پاورقی را می‌توان با پارامترهای `params.navbar.width` و `params.footer.width` سفارشی کرد.
 

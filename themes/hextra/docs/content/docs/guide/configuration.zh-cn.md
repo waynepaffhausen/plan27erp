@@ -285,6 +285,8 @@ params:
 
 要自定义日期格式，设置 `params.dateFormat` 参数。其布局与 Hugo 的 [`time.Format`](https://gohugo.io/functions/time/format/) 匹配。
 
+此外，可以通过启用 `params.displayUpdatedAuthor` 标志来显示最后修改的作者。这需要设置 `enableGitInfo: true`。
+
 ```yaml {filename="hugo.yaml"}
 # 解析 Git 提交
 enableGitInfo: true
@@ -293,6 +295,8 @@ params:
   # 显示最后修改日期
   displayUpdatedDate: true
   dateFormat: "2006年1月2日"
+  # 显示最后修改的作者
+  displayUpdatedAuthor: true
 ```
 
 ### 标签
@@ -338,7 +342,7 @@ params:
 
 ### 页面宽度
 
-页面宽度可以通过配置文件中的 `params.page.width` 参数自定义：
+页面整体布局宽度可通过 `params.page.width` 配置：
 
 ```yaml {filename="hugo.yaml"}
 params:
@@ -347,7 +351,17 @@ params:
     width: wide
 ```
 
-有三个可用选项：`full`、`wide` 和 `normal`。默认页面宽度为 `normal`。
+`params.page.width` 可用选项：`full`、`wide`、`normal`。
+
+正文内容宽度默认固定为 `72rem`。
+
+如需自定义内容宽度，请在自定义样式表中覆盖 CSS 变量：
+
+```css {filename="assets/css/custom.css"}
+:root {
+  --hextra-max-content-width: 100%;
+}
+```
 
 类似地，导航栏和页脚的宽度可以通过 `params.navbar.width` 和 `params.footer.width` 参数自定义。
 
