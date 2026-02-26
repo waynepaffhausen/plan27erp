@@ -19,7 +19,7 @@ Community members are encouraged to attend this informational session, as Mayor 
 - Wear **GREEN** and bring a sign
 - Bring a friend and encourage that friend to bring a friend!
 - Do not disrupt or negatively interfere with the City’s open forum
-- Please act respectfully and civil at all times
+- Please act respectfully and civil at all times (no picketting or marching)
 
 <div class="hx:mt-6"></div>
 
