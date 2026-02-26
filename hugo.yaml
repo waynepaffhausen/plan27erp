@@ -13,9 +13,9 @@ disableKinds:
   - taxonomy
 
 outputs:
-  home: [HTML]
-  page: [HTML]
-  section: [HTML, RSS]
+  home: [html, llms]
+  page: [html, markdown]
+  section: [html, rss, markdown]
 
 # defaultContentLanguage: en
 # languages:
@@ -28,7 +28,7 @@ outputs:
 module:
   hugoVersion:
     extended: true
-    min: "0.112.0"
+    min: "0.146.0"
 
 markup:
   highlight:

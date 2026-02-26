@@ -1,6 +1,11 @@
 ---
 #title: Hextra Theme
-layout: hextra-home
+#layout: hextra-home
+toc: false
+sidebar:
+  hide: true
+  width: 0
+type: blank
 ---
 
 <div style="position: relative; width: 100%; margin: 0 auto;">
