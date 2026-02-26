@@ -13,9 +13,9 @@ disableKinds:
   - taxonomy
 
 outputs:
-  home: [HTML]
-  page: [HTML]
-  section: [HTML, RSS]
+  home: [html, llms]
+  page: [html, markdown]
+  section: [html, rss, markdown]
 
 # defaultContentLanguage: en
 # languages:
@@ -28,7 +28,7 @@ outputs:
 module:
   hugoVersion:
     extended: true
-    min: "0.112.0"
+    min: "0.146.0"
 
 markup:
   highlight:
@@ -92,11 +92,15 @@ params:
   #description: Take control of your online privacy. Beginner Privacy helps you protect your data with simple guides and a clear, actionable roadmap.
   
   externalLinkDecoration: true
-  
-  # banner:
-  #   key: 'announcement'
-  #   message: |
-  #     [🎉 Live streaming now: Leadership Conference Recap](https://www.youtube.com/watch?v=LWTq_U01lVk) 
+
+  author:
+    name: "PLAN-27ERP"
+    email: "plan-27erp+owner@googlegroups.com"
+      
+  banner:
+    key: 'announcement-meeting_03.03.2026'
+    message: |
+      [🎉 New Public Meeting:  Tuesday, March 3rd, 2026 @ East Roswell Recreation Center](https://www.roswellconnections.com/FireStation27/)
 
   images:
     - images/og_image.png
@@ -108,7 +112,7 @@ params:
       dark: images/logo-dark.svg
       width: 25
       height: 25
-      # link: /
+      link: /home
     width: full
 
   page:
