@@ -77,5 +77,5 @@ What can I do to help?
 
 {{< cards cols="2" >}}
   {{< card link="https://c.org/4wcsP9Xgtf" title="Stop the placement of Fire Station #27 in East Roswell Park" icon="external-link" subtitle="Sign the Petition on <u>change.org</u>" >}}
-  {{< card link="getting-involved" title="Getting Involved" icon="document-text" subtitle="Learn how to help by getting involved!" >}}
+  {{< card link="/getting-involved" title="Getting Involved" icon="document-text" subtitle="Learn how to help by getting involved!" >}}
 {{< /cards >}}
