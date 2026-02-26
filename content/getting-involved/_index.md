@@ -10,6 +10,10 @@ sidebar:
 Thank you for your interest in helping to preserve the integrity of East Roswell Park and its surrounding neighborhoods!  We rely on volunteers like you to help us gather information, voice our concerns to the city, and spread the word to neighbors and park users.
 
 ## Attend public meetings
+<div style="display: flex; flex-wrap: wrap; width: 100%; gap: 10px;">
+  <img src="/images/protest-sign-2.png" />
+</div>
+
 ### City of Roswell to Host Community Update on Fire Station #27 Plans on March 3
 Community members are encouraged to attend this informational session, as Mayor Mary Robichaux and City staff share project updates and what to expect as plans move forward.
 - This is our **LAST OPPORTUNITY** to voice your concerns
