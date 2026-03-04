@@ -112,7 +112,7 @@ params:
       dark: images/logo-dark.svg
       width: 25
       height: 25
-      link: /home
+      # link: /home
     width: full
 
   page:
